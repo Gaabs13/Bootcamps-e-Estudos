@@ -69,7 +69,7 @@ Conecta as duas camadas principais:
 
 
 
-### 🔐 Observação importante
+### 🔐 **Observação importante**
 
 Ocultei minha chave API desse projeto, deixando somente a explicação do código e sua funcionalidade, logo, caso queira executar e visualizar em funcionamento, insira sua chave API:
 
