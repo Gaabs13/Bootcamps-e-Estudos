@@ -29,19 +29,14 @@ O foco está em:
 - Organização de aprendizados e exercícios
 - Construção de base sólida em desenvolvimento de software
 
-
-Este é um repositório em constante atualização, podendo receber novos exercícios, projetos e anotações conforme o avanço na trilha de desenvolvimento.
-
-
-
-## 📈 Direção
-
 A trilha contribui para o desenvolvimento de competências em:
 
 - Lógica de programação e desenvolvimento de software
 - Estruturação de sistemas
 - Fundamentos de dados e inteligência artificial
 - Práticas modernas de engenharia de software
+  
+Este é um repositório em constante atualização, podendo receber novos exercícios, projetos e anotações conforme o avanço na trilha de desenvolvimento.
 
-
+“A formação técnica é um processo contínuo de construção, adaptação e crescimento profissional.”
 
