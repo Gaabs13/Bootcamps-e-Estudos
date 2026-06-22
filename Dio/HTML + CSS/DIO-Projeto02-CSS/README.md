@@ -43,8 +43,7 @@ Além da proposta original do desafio, foram adicionadas melhorias para aprimora
 * Gradientes e efeitos visuais
 * Organização e escalabilidade do código CSS
 
-## 🎯 Aprendizados
-
+  
 Este projeto foi importante para consolidar conceitos fundamentais de CSS e compreender como pequenas melhorias visuais podem impactar significativamente a experiência do usuário.
 
-### Desenvolvido durante a Formação CSS da DIO
+
