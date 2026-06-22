@@ -1,4 +1,6 @@
-# 🥔 Pringles Interactive Landing Page
+<p align="center">
+  <img src="./assets/exemplo.gif" alt="Demo do projeto" width="100%">
+</p>
 
 Projeto de estudo e experimentação em desenvolvimento front-end focado na criação de uma **landing page interativa e animada**, com transições dinâmicas, microinterações e exploração de animações avançadas no navegador.
 
