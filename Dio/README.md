@@ -4,12 +4,10 @@ Repositório dedicado aos estudos, desafios e projetos desenvolvidos durante a j
 
 
 
-## 🚀 Sobre o repositório
+## 🎯 Objetivo
 
 Este espaço tem como objetivo documentar a evolução técnica ao longo dos estudos realizados na plataforma, organizando práticas, exercícios e projetos desenvolvidos durante as formações.
 
-
-🎯 Objetivo
 
 Mais do que concluir cursos ou trilhas, o foco está na compreensão profunda dos conceitos por trás das tecnologias e na aplicação prática desse conhecimento.
 
