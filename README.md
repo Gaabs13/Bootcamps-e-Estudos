@@ -1,9 +1,6 @@
-# 🚀 Bootcamps e Estudos
+## 📂 Estrutura do Repositório
 
 Repositório dedicado ao armazenamento de projetos, códigos, desafios e anotações desenvolvidos durante a minha jornada de aprendizado em Bootcamps, cursos e projetos práticos.
-
-
-## 📂 Estrutura do Repositório
 
 O projeto está organizado por instituições de ensino e tecnologias estudadas:
 
