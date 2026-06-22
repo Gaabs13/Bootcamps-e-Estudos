@@ -26,7 +26,15 @@ O projeto está organizado por instituições de ensino e tecnologias estudadas:
     *   `Planejamento` - Organização do projeto através de quadro Kanban.
     *   `skillmatch.js` - Core da lógica do sistema em JavaScript.
 
----
+### 🧭 [GoogleSkills](./GoogleSkills/)
+
+Base de estudos contínuos baseada na plataforma oficial **Google Skills**, com foco em capacitação tecnológica em áreas como cloud, programação, inteligência artificial e desenvolvimento de software.
+
+- Exploração de APIs e serviços do ecossistema Google
+- Estudos de visualização de dados e interfaces interativas
+- Práticas com ferramentas e laboratórios da plataforma
+- Aprendizado baseado em trilhas estruturadas e conteúdos oficiais
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
