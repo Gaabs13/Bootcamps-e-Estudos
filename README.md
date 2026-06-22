@@ -2,38 +2,51 @@
 
 Repositório dedicado ao armazenamento de projetos, códigos, desafios e anotações desenvolvidos durante a minha jornada de aprendizado em Bootcamps, cursos e projetos práticos.
 
----
 
 ## 📂 Estrutura do Repositório
 
 O projeto está organizado por instituições de ensino e tecnologias estudadas:
 
 ### 🏛️ [DIO (Digital Innovation One)](./Dio/)
-*   **Atlassian + Jira + API**: Gerenciamento de projetos ágeis e integrações.
-    *   `Dio-Projeto01-Bradesco-Jira` - Planejamento ágil.
-    *   `Dio-Projeto02-Beerstock-API` - API desenvolvida e testada (v2.0).
-*   **HTML + CSS**: Fundamentos de desenvolvimento web front-end.
-    *   `Dio-Projeto01-HTML` - Estruturação de páginas.
-    *   `DIO-Projeto02-CSS` - Estilização moderna e layout.
-*   **I.A (Inteligência Artificial)**: Experimentos práticos com IA generativa.
-    *   `lab-natty-or-not` - Laboratório de avaliação/geração de mídias digitais.
-*   **Java**: Desenvolvimento back-end utilizando a linguagem Java.
-    *   `Bootcamp-Dio-Projeto01-JavaPCD` - Sistema de Bootcamp orientado a objetos.
-*   **JavaScript**: Lógica de programação e scripts para web.
+Base de estudos desenvolvida a partir das formações e desafios da plataforma Digital Innovation One (DIO), com foco em desenvolvimento de software, fundamentos de programação e aplicação prática de tecnologias.
+
+- Desenvolvimento front-end e back-end
+- Estruturação de projetos e boas práticas
+- Integração com APIs e serviços externos
+- Estudos de Java, JavaScript, HTML e CSS
+- Práticas de metodologias ágeis e gestão de projetos
+- Construção de soluções aplicadas a cenários reais
 
 ### 🏢 [SCTec](./SCTec/)
-*   **Projeto 01 - Skillmatch**: Aplicação focada em mapeamento de habilidades.
-    *   `Planejamento` - Organização do projeto através de quadro Kanban.
-    *   `skillmatch.js` - Core da lógica do sistema em JavaScript.
+Espaço dedicado aos estudos realizados durante a trilha Carreira Tech do SCTEC, programa de capacitação tecnológica e Inteligência Artificial do Governo de Santa Catarina em parceria com o SENAI/SC.
+
+- Desenvolvimento de software
+- Lógica de programação e estruturação de sistemas
+- Fundamentos de Inteligência Artificial
+- Construção de soluções práticas e projetos aplicados
+- Aprendizado orientado à formação profissional em tecnologia
+- Evolução contínua através de atividades e desafios da trilha
 
 ### 🧭 [GoogleSkills](./GoogleSkills/)
 
 Base de estudos contínuos baseada na plataforma oficial **Google Skills**, com foco em capacitação tecnológica em áreas como cloud, programação, inteligência artificial e desenvolvimento de software.
 
-- Exploração de APIs e serviços do ecossistema Google
-- Estudos de visualização de dados e interfaces interativas
-- Práticas com ferramentas e laboratórios da plataforma
-- Aprendizado baseado em trilhas estruturadas e conteúdos oficiais
+- Exploração de APIs e serviços do ecossistema Google;
+- Estudos de visualização de dados e interfaces interativas;
+- Práticas com ferramentas e laboratórios da plataforma;
+- Aprendizado baseado em trilhas estruturadas e conteúdos oficiais;
+
+### 💻 [Estudos-FrontEnd](./Estudos-FrontEnd/)
+
+Espaço dedicado a estudos, experimentações e projetos voltados ao desenvolvimento front-end moderno, com foco em interfaces interativas, integrações com APIs e construção de experiências digitais.
+
+- Desenvolvimento de interfaces responsivas e dinâmicas;
+- Estudos de React e TypeScript;
+- Exploração de JavaScript moderno (ES6+);
+- Integrações com APIs e serviços externos;
+- Componentização e arquitetura Front-End;
+- Estudos de UX/UI aplicados ao desenvolvimento;
+- Experimentações com animações e interatividade;
 
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -45,7 +58,6 @@ As principais tecnologias aplicadas neste repositório incluem:
 *   **Metodologias Ágeis**: Atlassian Jira, Kanban, Documentação de Projetos
 *   **Versionamento**: Git & GitHub
 
----
 
 ## 🚀 Como Executar os Projetos
 
@@ -61,11 +73,3 @@ Cada pasta possui seu próprio escopo. Para rodar qualquer projeto localmente:
    ```
 3. Siga as instruções específicas do arquivo `README.md` interno de cada projeto (se disponível).
 
----
-
-## 📇 Contato
-
-Desenvolvido por **Gabriel** (Gaabs13).  
-Se quiser trocar uma ideia sobre tecnologia ou colaborar em algum projeto, conecte-se comigo!
-
-[![GitHub](https://shields.io)](https://github.com)
