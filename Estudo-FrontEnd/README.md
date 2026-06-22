@@ -2,17 +2,9 @@
 
 Repositório dedicado aos meus estudos e experimentações em desenvolvimento front-end, com foco na criação de interfaces interativas, integrações com APIs e soluções criativas aplicadas a produtos web.
 
----
-
-## 🚀 Visão geral
-
 Esta pasta reúne exercícios, protótipos e projetos de estudo voltados à evolução prática no desenvolvimento front-end moderno.
 
 O foco principal está na construção de páginas interativas, exploração de comportamentos dinâmicos na interface e integração com serviços externos para criação de experiências mais completas e funcionais.
-
----
-
-## 🎯 Foco de estudo
 
 O direcionamento desta trilha é baseado em:
 
