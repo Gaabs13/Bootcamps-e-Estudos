@@ -2,9 +2,6 @@
 
 Projeto de visualização de dados geoespaciais construído com **Google Maps JavaScript API** e **Deck.gl**, utilizando camadas dinâmicas para renderização de pontos baseados em dados estruturados.
 
----
-
-## 📸 Preview
 
 <p align="center">
   <img src="./assets/1.png" alt="Mapa com scatterplot layer" width="100%" />
@@ -14,15 +11,11 @@ Projeto de visualização de dados geoespaciais construído com **Google Maps Ja
   <img src="./assets/2.png" alt="Detalhe dos pontos geográficos" width="100%" />
 </p>
 
----
-
-## 🚀 Visão geral
 
 A aplicação transforma um conjunto de dados geográficos em uma visualização interativa sobre o Google Maps, utilizando camadas de renderização do Deck.gl.
 
 Cada ponto representa uma estação com base em coordenadas (latitude/longitude) e um valor de capacidade que define sua representação visual.
 
----
 
 ## ⚙️ Fluxo da aplicação
 
@@ -46,7 +39,6 @@ O `GoogleMapsOverlay` conecta a camada de dados ao mapa base.
 **6. Renderização final**  
 Os pontos são exibidos com variação visual baseada nos atributos do dataset.
 
----
 
 ## 🧱 Arquitetura
 
