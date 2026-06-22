@@ -17,9 +17,7 @@ A aplicação transforma um conjunto de dados geográficos em uma visualização
 Cada ponto representa uma estação com base em coordenadas (latitude/longitude) e um valor de capacidade que define sua representação visual.
 
 
-## ⚙️ Fluxo da aplicação
-
-O fluxo de execução do sistema segue estas etapas:
+## ⚙️ O fluxo de execução do sistema segue estas etapas:
 
 **1. Carregamento da Google Maps API**  
 A API do Google Maps é carregada dinamicamente via script externo.
@@ -40,9 +38,8 @@ O `GoogleMapsOverlay` conecta a camada de dados ao mapa base.
 Os pontos são exibidos com variação visual baseada nos atributos do dataset.
 
 
-## 🧱 Arquitetura
+## 🧱 A aplicação é composta por três camadas principais:
 
-A aplicação é composta por três camadas principais:
 
 ### 🗺️ Camada de Base (Google Maps)
 Responsável pela renderização do mapa e controle de visualização geográfica.
@@ -60,7 +57,6 @@ Conecta as duas camadas principais:
 - `GoogleMapsOverlay`
 - Sincronização entre mapa e visualização de dados
 
----
 
 ## 🧩 Stack utilizada
 
@@ -71,9 +67,11 @@ Conecta as duas camadas principais:
 - @deck.gl/layers
 - HTML + DOM API
 
----
 
-## 🔐 Observação importante
+
+🔐 Observação importante
+
+Ocultei minha chave API desse projeto, deixando somente a explicação do código e sua funcionalidade, logo, caso queira executar e visualizar em funcionamento, insira sua chave API:
 
 ```js
 const googleMapsAPIKey = 'YOUR API KEY';
