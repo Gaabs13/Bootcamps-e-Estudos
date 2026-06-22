@@ -1,4 +1,3 @@
-
 # 🌍 Interactive Map Visualization (Google Maps + Deck.gl)
 
 Projeto de visualização de dados geoespaciais construído com **Google Maps JavaScript API** e **Deck.gl**, utilizando camadas dinâmicas para renderização de pontos baseados em dados estruturados.
@@ -84,7 +83,5 @@ Conecta as duas camadas principais:
 
 ## 🔐 Observação importante
 
-Para executar o projeto corretamente, é necessário configurar uma chave válida da Google Maps API:
-
-```js id="api-key"
+```js
 const googleMapsAPIKey = 'YOUR API KEY';
