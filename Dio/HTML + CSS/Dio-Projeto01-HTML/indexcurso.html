@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto: HTML by DIO</title>
+    <!-- Google Fonts: Montserrat para títulos, Nunito para corpo (Neo Tech pode ser adicionada se disponível) -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Nunito:wght@400&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Nunito', 'Neo Tech', Arial, sans-serif;
+            margin: 24px;
+            background: #fafbfc;
+            color: #222;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Montserrat', 'Neo Tech', Arial, sans-serif;
+            letter-spacing: 1px;
+        }
+        mark {
+            background: #90EE90;
+        }
+        hr {
+            border: none;
+            border-top: 2px solid #e0e0e0;
+            margin: 24px 0;
+        }
+        blockquote {
+            border-left: 4px solid #93E9BE;
+            margin: 16px 0;
+            padding-left: 16px;
+            color: #555;
+            font-style: italic;
+            background: #fffbe6;
+        }
+        a {
+            color: #93E9BE;
+            text-decoration: underline;
+        }
+        a:hover {
+            color: #008080;
+        }
+        ul, ol {
+            margin-left: 32px;
+        }
+        abbr[title] {
+            border-bottom: 1px dotted #888;
+            cursor: help;
+        }
+        del {
+            color: #90EE90;
+            text-decoration: line-through;
+        }
+        small {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="topo"><mark>Introdução ao HTML5, Estruturação e HTML Semântico + Como o NotebookLM Pode Ajudar nos Estudos de Programação</mark></h1>
+    <hr>
+
+    <h2 id="indice"><u>Índice</u></h2>
+    <p><small>Este é um projeto de estudo sobre HTML, onde você irá aprender um breve resumo sobre os conceitos básicos e avançados desta linguagem de marcação.</small></p>
+    <ol>
+        <li><a href="#html5"><strong>O que é HTML5?</strong></a></li>
+        <li><a href="#estrutura"><strong>Como Estruturar um Documento HTML?</strong></a></li>
+        <li><a href="#css-js"><strong>Como Estilizar e Manipular um HTML com CSS e JavaScript?</strong></a></li>
+        <li><a href="#semantico"><strong>O que é HTML Semântico?</strong></a></li>
+        <li><a href="#bonus"><strong>Bônus: Como o NotebookLM Pode Ajudar no Estudo de Programação</strong></a></li>
+        <li><a href="#referencias"><strong>Links de referências</strong></a></li>
+    </ol>
+
+    <section>
+        <h2 id="html5"><mark>O que é HTML5?</mark></h2>
+        <blockquote>
+            <p><i>A internet é construída sobre muitas camadas de tecnologia, e uma das principais é o HTML.</i></p>
+        </blockquote>
+        <p>Vamos explorar o que é o <abbr title="HyperText Markup Language 5">HTML5</abbr>, como estruturar um documento HTML de forma eficiente e a importância do HTML semântico. No final, falaremos sobre uma ferramenta incrível chamada <mark>NotebookLM</mark>, que pode transformar sua forma de estudar programação.</p>
+
+        <h3 id="estrutura"><u>Como Estruturar um Documento HTML</u></h3>
+        <p><strong>Anatomia Básica do HTML</strong></p>
+        <ul>
+            <li><mark>Nó Document</mark>: representa o documento inteiro.</li>
+            <li><mark>Elementos (tags)</mark>: como <code>&lt;body&gt;</code>, <code>&lt;p&gt;</code>, <code>&lt;img&gt;</code>.</li>
+            <li><mark>Texto</mark>: conteúdo textual dos elementos.</li>
+            <li><mark>Comentários</mark>: notas internas no código.</li>
+        </ul>
+
+        <h3><u>Partes Essenciais de um Documento HTML</u></h3>
+        <ul>
+            <li><code>&lt;head&gt;</code>: contém informações sobre o documento (<i>metadados, título, links para CSS</i>).</li>
+            <li><code>&lt;body&gt;</code>: onde fica o conteúdo visível da página.</li>
+        </ul>
+
+        <h3><u>Tipos de Elementos HTML</u></h3>
+        <ul>
+            <li><strong>Inline (em linha):</strong> exemplos: <code>&lt;span&gt;</code>, <code>&lt;a&gt;</code>, <code>&lt;strong&gt;</code>.</li>
+            <li><strong>Block-level (em bloco):</strong> exemplos: <code>&lt;div&gt;</code>, <code>&lt;section&gt;</code>, <code>&lt;article&gt;</code>.</li>
+        </ul>
+        <p style="text-align:right"><a href="#indice"><small>Voltar ao índice</small></a></p>
+        <hr>
+    </section>
+
+    <section>
+        <h2 id="css-js"><mark>Como Estilizar e Manipular um HTML com CSS e JavaScript</mark></h2>
+        <h3><u>Estilização com CSS</u></h3>
+        <ul>
+            <li><strong>Estilo em linha:</strong> usado diretamente no elemento (ex: <code>&lt;p style="color:red;"&gt;</code>).</li>
+            <li><strong>Folhas de estilo internas:</strong> dentro da tag <code>&lt;style&gt;</code> no <code>&lt;head&gt;</code>.</li>
+            <li><strong>Folhas de estilo externas:</strong> em arquivos separados com extensão .css, vinculados via <code>&lt;link&gt;</code>.</li>
+        </ul>
+
+        <h3><u>Manipulação com JavaScript</u></h3>
+        <ul>
+            <li><strong>Selecionar elementos:</strong> usando métodos como <code>getElementById()</code>, <code>getElementsByClassName()</code> ou <code>querySelectorAll()</code>.</li>
+            <li><strong>Modificar conteúdo e atributos:</strong> exemplo: alterar o texto de um parágrafo com <code>innerHTML</code> ou mudar a imagem exibida alterando o atributo <code>src</code>.</li>
+            <li><strong>Criar e inserir elementos dinamicamente:</strong> com métodos como <code>createElement()</code> e <code>appendChild()</code>.</li>
+            <li><strong>Como incluir JavaScript:</strong>
+                <ul>
+                    <li>Diretamente no HTML usando <code>&lt;script&gt;</code>.</li>
+                    <li>Através de arquivos externos (exemplo: <code>&lt;script src="script.js"&gt;&lt;/script&gt;</code>).</li>
+                    <li><del>Como manipuladores de eventos inline (menos recomendado atualmente).</del></li>
+                </ul>
+            </li>
+        </ul>
+        <p style="text-align:right"><a href="#indice"><small>Voltar ao índice</small></a></p>
+        <hr>
+    </section>
+
+    <section>
+        <h2 id="semantico"><mark>O que é HTML Semântico?</mark></h2>
+        <p><strong>HTML Semântico</strong> significa usar tags que descrevem o significado do conteúdo.</p>
+        <h3><u>Exemplos de Elementos Semânticos</u></h3>
+        <ul>
+            <li><strong>Estruturais:</strong> <code>&lt;header&gt;</code>, <code>&lt;footer&gt;</code>, <code>&lt;main&gt;</code>, <code>&lt;section&gt;</code>, <code>&lt;article&gt;</code>, <code>&lt;aside&gt;</code>, <code>&lt;nav&gt;</code>.</li>
+            <li><strong>Conteúdo específico:</strong> <code>&lt;figure&gt;</code>, <code>&lt;figcaption&gt;</code>, <code>&lt;mark&gt;</code>, <code>&lt;time&gt;</code>, <code>&lt;details&gt;</code>, <code>&lt;summary&gt;</code>.</li>
+        </ul>
+        <h3><u>Por que Usar HTML Semântico?</u></h3>
+        <ul>
+            <li><strong>Melhora a acessibilidade:</strong> facilita a vida de quem usa leitores de tela.</li>
+            <li><strong>Aumenta o SEO:</strong> mecanismos de busca entendem melhor o conteúdo.</li>
+            <li><strong>Facilita a manutenção:</strong> o código fica mais legível e organizado.</li>
+            <li><strong>Separa estrutura de estilo:</strong> o conteúdo fica independente da forma como será exibido.</li>
+        </ul>
+        <p><i>Dica: Embora elementos como <code>&lt;div&gt;</code> e <code>&lt;span&gt;</code> sejam muito usados, eles não são semânticos.</i></p>
+        <p style="text-align:right"><a href="#indice"><small>Voltar ao índice</small></a></p>
+        <hr>
+    </section>
+
+    <section>
+        <h2 id="bonus"><mark>Bônus!</mark></h2>
+        <h3><u>Como o NotebookLM Pode Ajudar no Estudo de Programação</u></h3>
+        <blockquote>
+            <p><i>O NotebookLM é uma ferramenta inovadora que pode revolucionar a forma como você estuda programação.</i></p>
+        </blockquote>
+        <p>Ele utiliza inteligência artificial para fornecer respostas rápidas e precisas às suas perguntas, além de sugerir recursos adicionais e exemplos práticos.</p>
+        <p>Com o NotebookLM, você pode:</p>
+        <ul>
+            <li>Obter explicações detalhadas sobre conceitos de programação.</li>
+            <li>Receber dicas e truques para melhorar seu código.</li>
+            <li>Explorar exemplos práticos e exercícios interativos.</li>
+            <li>Descobrir novas tecnologias e tendências no mundo da programação.</li>
+            <li>Receber feedback instantâneo sobre seu código.</li>
+            <li>Colaborar com outros estudantes e profissionais da área.</li>
+        </ul>
+        <p>Se você está começando agora ou já tem experiência, o NotebookLM pode ser um grande aliado nos seus estudos.</p>
+        <p>Ele oferece uma abordagem personalizada e interativa, tornando o aprendizado mais eficiente e divertido.</p>
+        <p style="text-align:right"><a href="#indice"><small>Voltar ao índice</small></a></p>
+        <hr>
+    </section>
+
+    <section>
+        <h2 id="referencias"><mark>Links de referências</mark></h2>
+        <ul>
+            <li><i>W3C. HTML5 - A vocabulary and associated APIs for HTML and XHTML. Disponível em: <a href="https://www.w3.org/TR/html5/" target="_blank">https://www.w3.org/TR/html5/</a>. Acesso em: 14 jun. 2025.</i></li>
+            <li><i>MDN Web Docs. HTML: HyperText Markup Language. Disponível em: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">https://developer.mozilla.org/en-US/docs/Web/HTML</a>. Acesso em: 14 jun. 2025.</i></li>
+            <li><i>MOZILLA FOUNDATION. Introduction to HTML. Disponível em: <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML" target="_blank">https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML</a>. Acesso em: 14 jun. 2025.</i></li>
+            <li><i>GOOGLE DEVELOPERS. HTML5 Rocks. Disponível em: <a href="https://www.html5rocks.com/en/" target="_blank">https://www.html5rocks.com/en/</a>. Acesso em: 14 jun. 2025.</i></li>
+            <li><i>GOOGLE. NotebookLM. Disponível em: <a href="https://notebooklm.google" target="_blank">https://notebooklm.google</a>. Acesso em: 14 jun. 2025.</i></li>
+        </ul>
+        <ul>
+            <li><a href="http://dio.me" target="_blank"><u>http://dio.me</u></a></li>
+            <li><a href="http://w3c.org" target="_blank"><u>http://w3c.org</u></a></li>
+        </ul>
+        <p><abbr title="Voltar ao início do índice"><a href="#indice"><small>Voltar ao índice</small></a></abbr></p>
+        <hr>
+    </section>
+    <footer>
+        <p><small>Projeto desenvolvido por <strong>Gabriel Carlos de Souza</strong> - DIO - Digital Innovation One</small></p>
+        <p><small>Data de criação: 14 de junho de 2025</small></p>
+    </footer>
+</body> 
+</html>
