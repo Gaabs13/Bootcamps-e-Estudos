@@ -27,25 +27,25 @@ Atualmente, os estudos são baseados principalmente em:
 
 ## 🧠 Abordagem
 
-Os projetos aqui presentes têm como objetivo:
+**Os projetos aqui presentes têm como objetivo:**
 
-- Explorar novas possibilidades de UI/UX
-- Testar integrações e fluxos de dados
-- Desenvolver componentes reutilizáveis
-- Aprimorar arquitetura front-end
-- Simular cenários reais de aplicação
+- Explorar novas possibilidades de UI/UX;
+- Testar integrações e fluxos de dados;
+- Desenvolver componentes reutilizáveis;
+- Aprimorar arquitetura front-end;
+- Simular cenários reais de aplicação;
 
 
 Este é um repositório em constante evolução, onde novos estudos, testes e experimentos são adicionados conforme avanço técnico e exploração de novas tecnologias.
 
 
-A evolução desta pasta está focada em:
+**A evolução desta pasta está focada em:**
 
-- Interfaces modernas baseadas em componentes
-- Arquitetura front-end escalável
-- Performance e boas práticas
-- Experiências interativas e criativas
-- Desenvolvimento orientado a produto
+- Interfaces modernas baseadas em componentes;
+- Arquitetura front-end escalável;
+- Performance e boas práticas;
+- Experiências interativas e criativas;
+- Desenvolvimento orientado a produto;
 
 
 > “Interfaces ganham valor quando deixam de ser estáticas e passam a responder ao usuário.”
