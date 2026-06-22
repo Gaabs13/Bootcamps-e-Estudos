@@ -1,23 +1,87 @@
-# Google Maps Platform deck.gl Codelab
+# 🌍 Interactive Map Visualization (Google Maps + Deck.gl)
 
-This repo contains the project template and finished code for the Google Maps Platform deck.gl codelab for JavaScript developers.
+Projeto de visualização de dados geoespaciais construído com **Google Maps JavaScript API** e **Deck.gl**, utilizando camadas dinâmicas para renderização de pontos baseados em dados estruturados.
 
-![App screenshot](screenshot.png)
+---
 
-## Getting Started
-To get started with the codelab, download or fork this repo. A starter template is available in `/starter` and the full solution code is available in `/solution`.
+## 📸 Preview
 
-To run the starter or solution apps, run the following from their respective directories:
+<p align="center">
+  <img src="./assets/1.png" alt="Mapa com scatterplot layer" width="100%" />
+</p>
 
-1. `npm i`
-2. `npm start`
+<p align="center">
+  <img src="./assets/2.png" alt="Detalhe dos pontos geográficos" width="100%" />
+</p>
 
-This will install the needed dependencies and run the app locally in your browser using Webpack Dev Server.
+---
 
-## Support
-If you find a bug, please [file an issue]. Or, if you'd like to contribute, send us a [pull request] and refer to our [code of conduct].
+## 🚀 Visão geral
 
-[codelab]: https://codelabs.developers.google.com/codelabs/maps-platform-deckgl/index.html
-[file an issue]: https://github.com/googlecodelabs/maps-platform-deckgl/issues
-[pull request]:  https://github.com/googlecodelabs/maps-platform-deckgl/compare
-[code of conduct]: CODE_OF_CONDUCT.md
+A aplicação transforma um conjunto de dados geográficos em uma visualização interativa sobre o Google Maps, utilizando camadas de renderização do Deck.gl.
+
+Cada ponto representa uma estação com base em coordenadas (latitude/longitude) e um valor de capacidade que define sua representação visual.
+
+---
+
+## ⚙️ Fluxo da aplicação
+
+O fluxo de execução do sistema segue estas etapas:
+
+**1. Carregamento da Google Maps API**  
+A API do Google Maps é carregada dinamicamente via script externo.
+
+**2. Inicialização do mapa**  
+O mapa é instanciado com centro e zoom definidos.
+
+**3. Carregamento dos dados**  
+O dataset `stations.json` é consumido contendo informações geográficas e atributos numéricos.
+
+**4. Criação da camada de visualização**  
+Os dados são processados pelo `ScatterplotLayer` do Deck.gl.
+
+**5. Integração com o mapa**  
+O `GoogleMapsOverlay` conecta a camada de dados ao mapa base.
+
+**6. Renderização final**  
+Os pontos são exibidos com variação visual baseada nos atributos do dataset.
+
+---
+
+## 🧱 Arquitetura
+
+A aplicação é composta por três camadas principais:
+
+### 🗺️ Camada de Base (Google Maps)
+Responsável pela renderização do mapa e controle de visualização geográfica.
+
+### 📊 Camada de Dados (Deck.gl)
+Responsável pela transformação dos dados em elementos visuais.
+
+- `ScatterplotLayer`
+- Mapeamento de latitude e longitude
+- Escala de raio baseada em atributos
+
+### 🔗 Camada de Integração
+Conecta as duas camadas principais:
+
+- `GoogleMapsOverlay`
+- Sincronização entre mapa e visualização de dados
+
+---
+
+## 🧩 Stack utilizada
+
+- JavaScript (ES6+)
+- Google Maps JavaScript API
+- Deck.gl
+- @deck.gl/google-maps
+- @deck.gl/layers
+- HTML + DOM API
+
+---
+
+## 🔐 Observação importante
+
+```js
+const googleMapsAPIKey = 'YOUR API KEY';
