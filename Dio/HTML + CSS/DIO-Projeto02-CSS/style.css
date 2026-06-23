@@ -1,9 +1,18 @@
 :root {
-  --blue-gradient: linear-gradient(180deg, #7FFFD4 0%, #1472b7 100%);
   --blue: #7FFFD4;
   --blue-dark: #1472b7;
-  --gray-bg: #252525;
-  --border-radius: 57px;
+
+  --bg-primary: #000;
+  --bg-secondary: #111;
+  --bg-card: #151515;
+
+  --text-primary: #fff;
+  --text-secondary: rgba(255,255,255,.75);
+
+  --border-color: rgba(127,255,212,.18);
+
+  --border-radius: 24px;
+
   --container-width: 100%;
   --max-width: 1200px;
 }
@@ -43,20 +52,17 @@
 /* LINHAS DIVISÓRIAS NEON */
 .division:not(:last-child)::after {
   content: "";
-  display: overflow;
   position: absolute;
-  left: 0; right: 0; bottom: 0;
-  height: 2px;
-  width: 100vw;
-  background: linear-gradient(90deg, transparent 0 2%, #7FFFD4 10% 90%, transparent 98% 100%);
-  box-shadow:
-    0 0 12px #7FFFD4,
-    0 0 24px #7FFFD4,
-    0 0 48px #7FFFD4;
-  z-index: 10;
+  left: 10%;
+  right: 10%;
+  bottom: 0;
+
+  height: 1px;
+
+  background: rgba(127,255,212,.12);
+
   pointer-events: none;
 }
-
 /* 1. Banner com fundo banner.png e opacidade */
 .division-banner {
   min-height: 400px;
@@ -117,13 +123,19 @@
 .logo {
   width: 180px;
   height: 180px;
-  background: rgba(0,0,0,0.2);
+
+  background: rgba(255,255,255,.03);
+
+  border: 1px solid rgba(255,255,255,.08);
+
   border-radius: 50%;
+
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 8px;
-  box-shadow: 0 4px 32px 0 rgba(127,255,212,0.15);
+
+  box-shadow:
+    0 12px 32px rgba(0,0,0,.25);
 }
 .logo img {
   width: 150px;
@@ -155,36 +167,68 @@
   margin: 0;
   line-height: 1.4;
 }
+/* CTA BUTTON - Breezelab Minimal */
+
 .cta-button {
-  margin-top: 6px;
-  padding: 16px 64px;
-  border-radius: 30px;
-  border: 2px solid;
-  border-image: var(--blue-gradient) 1;
+  margin-top: 12px;
+  padding: 14px 32px;
+
+  position: relative;
+  overflow: hidden;
+
+  border: 1px solid rgba(127, 255, 212, 0.18);
+  border-radius: 999px;
+
   background: transparent;
-  color: var(--blue);
-  font-family: 'Raleway', Helvetica, Arial, sans-serif;
-  font-weight: 900;
-  font-size: 1rem;
-  letter-spacing: 2px;
+
+  color: #00ffcc;
+
+  font-family: 'Raleway', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+
   cursor: pointer;
-  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
-  box-shadow: 0 2px 16px 0 rgba(127,255,212,0.10);
+
+  transition:
+    border-color 0.25s ease,
+    background-color 0.25s ease,
+    transform 0.25s ease;
+
+  box-shadow: none;
 }
-.cta-button:hover,
-.cta-button:focus {
-  background: var(--blue-gradient);
-  color: #000;
+
+/* Hover */
+
+.cta-button:hover {
+  border-color: #00ffcc;
+
+  background: rgba(127, 255, 212, 0.03);
+
+  transform: translateY(-1px);
 }
+
+.cta-button:hover::after {
+  opacity: 0.9;
+}
+
+/* Clique */
+
 .cta-button:active {
-  background: var(--blue);
-  color: #fff;
-  box-shadow: 0 0 0 2px #fff, 0 2px 16px 0 rgba(127,255,212,0.15);
+  transform: translateY(1px);
+}
+
+/* Acessibilidade */
+
+.cta-button:focus-visible {
+  outline: none;
+
+  border-color: #00ffcc;
 }
 
 /* Destaque apenas na cor para CSS e DIO */
 .highlight-title {
-  color: #7FFFD4;
+  color: #00ffcc;
   font-weight: 900;
   letter-spacing: 2px;
   /* Neon removido */
@@ -211,7 +255,7 @@
   gap: 18px;
 }
 #course-content h2 {
-  color: var(--blue);
+  color: #00ffcc;
   font-size: 2rem;
   font-weight: 700;
   letter-spacing: 2px;
@@ -237,154 +281,142 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  background: var(--gray-bg);
-  border-radius: var(--border-radius);
-  border: 2px solid var(--blue);
-  box-shadow: 0 0 16px #7FFFD4, 0 0 32px #7FFFD488;
-  color: #fff;
-  font-size: 1.1rem;
-  font-family: 'Raleway', Helvetica, Arial, sans-serif;
-  font-weight: 900;
-  padding: 16px 36px;
+
+  gap: 8px;
+
   min-width: 260px;
   min-height: 56px;
+
+  padding: 16px 28px;
   margin: 0 auto;
+
+  background: #151515;
+
+  border: 1px solid rgba(127, 255, 212, 0.15);
+
+  border-radius: 999px;
+
+  color: #fff;
+
+  font-size: 1rem;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+
   text-align: left;
+
   position: relative;
-  transition: background 0.7s, box-shadow 0.7s;
+
   cursor: pointer;
+
   overflow: hidden;
-  z-index: 1;
-  /* Animation */
-  animation: moduleGlow 2.5s infinite alternate;
-  gap: 8px;
+
+  transition:
+    background-color .25s ease,
+    border-color .25s ease,
+    transform .25s ease;
+
+  box-shadow:
+    0 6px 18px rgba(0,0,0,.20);
 }
-@keyframes moduleGlow {
-  0% {
-    box-shadow: 0 0 16px #7FFFD4, 0 0 32px #7FFFD488;
-    background: var(--gray-bg);
-  }
-  50% {
-    box-shadow: 0 0 32px #7FFFD4, 0 0 64px #7FFFD4;
-    background: linear-gradient(90deg, #252525 0%, #7FFFD4 100%);
-  }
-  100% {
-    box-shadow: 0 0 16px #7FFFD4, 0 0 32px #7FFFD488;
-    background: var(--gray-bg);
-  }
+
+.module::after {
+  content: "";
+
+  position: absolute;
+
+  left: 20px;
+  right: 20px;
+  bottom: 0;
+
+  height: 1px;
+
+  background: #00ffcc;
+
+  opacity: .15;
+
+  transition: opacity .25s ease;
 }
-.module:hover, .module:focus {
-  background: var(--blue-gradient);
-  color: #000;
-  box-shadow: 0 0 32px #7FFFD4, 0 0 64px #7FFFD4;
-  transition: background 0.3s, color 0.3s, box-shadow 0.3s;
+
+.module:hover,
+.module:focus {
+  background: #1b1b1b;
+
+  border-color: rgba(127,255,212,.45);
+
+  transform: translateY(
+-1px);
 }
+
+.module:hover::after {
+  opacity: .55;
+}
+
 .highlight-module {
-  color: #7FFFD4;
-  font-weight: 900;
-  letter-spacing: 2px;
-  /* Neon removido */
-  background: none;
-  text-shadow: none;
-  filter: none;
-  -webkit-background-clip: initial;
-  -webkit-text-fill-color: initial;
-  background-clip: initial;
+  color: #00ffcc;
+
+  font-weight: 700;
+
+  letter-spacing: 1px;
+
   margin-right: 6px;
 }
+
 .module span:not(.highlight-module) {
-  color: #fff;
-  font-weight: 900;
-  text-shadow: none;
-  background: none;
-  filter: none;
-  letter-spacing: 1px;
+  color: rgba(255,255,255,.85);
+
+  font-weight: 600;
+
+  letter-spacing: .5px;
 }
 
 /* 3. Container woman-code.png como fundo fixo */
 .division-transform {
-  min-height: 480px;
-  width: 100%;
   position: relative;
+  min-height: 100vh;
+
+  background-image: url("./assets/woman-code.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+
   display: flex;
-  align-items: center;
   justify-content: center;
-  background: transparent;
-  overflow: hidden;
-}
-.division-transform::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: url('./Assets/woman-code.png') center center/cover no-repeat fixed;
-  opacity: 1;
-  z-index: 0;
-  pointer-events: none;
-  width: 100vw;
-  height: 100%;
+  align-items: center;
 }
 
-/* TEXTO CENTRALIZADO E ESTILIZADO */
+/* Escurece levemente a imagem para destacar o texto */
+.transform-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  z-index: 1;
+}
+
 .transform-text {
   position: relative;
-  z-index: 1;
-  font-family: 'Raleway', Helvetica, Arial, sans-serif;
-  font-weight: 900;
-  color: #fff;
-  text-align: center;
-  width: 100%;
-  max-width: 900px;
+  z-index: 2;
+
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  min-height: 320px;
-  gap: 0;
-  padding: 0 5vw;
-  opacity: 0;
-  animation: fadeInUp 1.2s 0.2s forwards;
-}
-.animate-fadein {
-  opacity: 0;
-  animation: fadeInUp 1.2s 0.2s forwards;
-}
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(40px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-.transform-text .transforme {
-  font-size: 3.5rem;
-  color: #7FFFD4;
-  text-shadow: none;
-  font-family: 'Raleway', Helvetica, Arial, sans-serif;
-  font-weight: 900;
-  letter-spacing: 2px;
-  margin-bottom: 0.1em;
-  line-height: 1;
-}
-.transform-text .linha-menor {
-  font-size: 1.5rem;
+
+  text-align: center;
   color: #fff;
-  text-shadow: none;
-  font-weight: 700;
-  margin-bottom: 0.1em;
-  line-height: 1.1;
-}
-.transform-text .gente {
-  font-size: 2.2rem;
-  color: #7FFFD4;
-  text-shadow: none;
-  font-weight: 900;
-  margin-top: 0.1em;
-  line-height: 1;
 }
 
+.transforme,
+.gente {
+  font-size: clamp(3rem, 10vw, 8rem);
+  font-weight: 800;
+  line-height: 0.9;
+}
+
+.linha-menor {
+  font-size: clamp(1rem, 2vw, 2rem);
+  letter-spacing: 0.3em;
+  margin: 1rem 0;
+  color: #00ffcc;
+}
 /* 4. Container desafios profissionais */
 .division-challenges {
   background: #000;
@@ -400,15 +432,13 @@
   gap: 18px;
 }
 #professional-challenges h2 {
-  color: var(--blue);
+  color: #00ffcc;
   font-size: 2rem;
   font-weight: 700;
   letter-spacing: 2px;
   text-align: center;
   margin: 0;
-  text-shadow:
-    0 0 8px #7FFFD4,
-    0 0 16px #7FFFD4;
+
 }
 #professional-challenges img {
   width: 100%;
@@ -428,7 +458,7 @@
 /* Rodapé padrão */
 footer {
   width: 100%;
-  border-top: 4px solid #7FFFD4;
+  border-top: 4px solid #00ffcc;
   background: #000;
   display: flex;
   flex-direction: column;
@@ -448,7 +478,7 @@ footer p {
   margin: 0;
 }
 footer a {
-  color: var(--blue);
+  color: #00ffcc;
   font-weight: 700;
   transition: color 0.2s;
 }
@@ -461,11 +491,11 @@ footer a:focus {
 /* Rodapé especial Breezelab */
 .rodape-breezelab {
   width: 100vw;
-  background: #78f0c8;
+  background: #00ffcc;
   padding: 9px 0 7px 0;
   text-align: center;
   font-family: 'Orbitron', 'Raleway', Arial, sans-serif;
-  font-size: 1.3rem;
+  font-size: 1rem;
   color:#000;
   letter-spacing: 2px;
   font-weight: 700;
@@ -567,7 +597,7 @@ footer a:focus {
     max-width: 98vw;
   }
   footer .dio-logo {
-    width: 140px;
+    width: 200%;
   }
   footer {
     padding: 24px 4vw 12px 4vw;
