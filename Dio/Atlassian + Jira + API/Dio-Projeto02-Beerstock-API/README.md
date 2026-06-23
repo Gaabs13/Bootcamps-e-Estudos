@@ -6,7 +6,7 @@ Este projeto faz parte dos meus estudos no **Bootcamp da DIO + Bradesco** e nasc
 
 A ideia aqui não é mostrar algo complexo, e sim **registrar o processo de aprendizado**: organizar o código, entender o fluxo da aplicação e validar se tudo está se comportando como esperado.
 
-<img src="./assets/01.png" alt="demonstração projeto" width="100%" />
+<img src="./Dio-Projeto02-Beerstock-API/assets/01.png" alt="demonstração projeto" width="100%" />
 
 ---
 
