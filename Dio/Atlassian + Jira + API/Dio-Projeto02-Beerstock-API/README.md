@@ -6,7 +6,7 @@ Este projeto faz parte dos meus estudos no **Bootcamp da DIO + Bradesco** e nasc
 
 A ideia aqui não é mostrar algo complexo, e sim **registrar o processo de aprendizado**: organizar o código, entender o fluxo da aplicação e validar se tudo está se comportando como esperado.
 
-Dentro do contexto do **Breezelab**, este repositório representa essa camada mais técnica e silenciosa do trabalho — aquela que garante que as coisas façam sentido antes de seguir adiante.
+<img src="./assets/01.png" alt="demonstração projeto" width="100%" />
 
 ---
 
