@@ -82,10 +82,6 @@ Tudo roda em memória, **sem necessidade de configuração externa.**
 
 ---
 
-### 🌀 **Um pouco do contexto Breezelab**
 
-O **Breezelab** é um espaço onde tecnologia, design e comunicação se encontram.
-Este projeto entra como um estudo técnico dentro desse ecossistema, reforçando a importância de **entender bem os fluxos**, validar comportamentos e cuidar da base antes de pensar em algo maior.
-
-É um **projeto simples, mas honesto** — feito para **aprender, testar e documentar** o caminho.
+> É um **projeto simples, mas honesto** — feito para **aprender, testar e documentar** o caminho.
 
