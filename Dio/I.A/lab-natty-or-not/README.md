@@ -18,7 +18,8 @@ Mais do que acompanhar tendências, a proposta aqui é **entender o uso prático
 
 # Projeto: Plantas do Mundo Digital
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cb10e2d4-dd90-4654-98d7-883e2bed42e7" />
+
+<video src="./Plantas_do_Mundo_Digital (1).mp4" width="600" controls></video>
 
 
 ## 📒 Descrição
