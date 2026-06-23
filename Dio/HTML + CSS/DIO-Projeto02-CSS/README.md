@@ -1,5 +1,9 @@
 # 🚀 Trilha CSS - Desafio DIO
 
+<p align="center">
+  <img src="./assets/01.png" alt="Banner" width="100%" />
+</p>
+
 Projeto desenvolvido como parte da formação da Digital Innovation One (DIO), com o objetivo de praticar conceitos fundamentais de HTML5 e CSS3 através da recriação e personalização de uma landing page.
 
 ## 📋 Objetivo
@@ -10,9 +14,6 @@ Aplicar conhecimentos de estruturação semântica com HTML e estilização avan
 * Responsividade
 * Variáveis CSS
 * Pseudo-elementos
-* Animações
-* Transições
-* Efeitos visuais
 * Organização de layout
 
 ## 🛠️ Tecnologias Utilizadas
