@@ -1,8 +1,8 @@
 ## 📂 Estrutura do Repositório
 
-Repositório dedicado ao armazenamento de projetos, códigos, desafios e anotações desenvolvidos durante a minha jornada de aprendizado em Bootcamps, cursos e projetos práticos.
+Repositório dedicado ao armazenamento de projetos, códigos, desafios e anotações desenvolvidos durante a minha contínua jornada de aprendizado em Bootcamps, Cursos e Projetos Práticos.
 
-O projeto está organizado por instituições de ensino e tecnologias estudadas:
+O repositório está organizado por instituições de ensino e tecnologias estudadas:
 
 ### 🏛️ [DIO (Digital Innovation One)](./Dio/)
 Base de estudos desenvolvida a partir das formações e desafios da plataforma Digital Innovation One (DIO), com foco em desenvolvimento de software, fundamentos de programação e aplicação prática de tecnologias.
@@ -48,7 +48,7 @@ Espaço dedicado a estudos, experimentações e projetos voltados ao desenvolvim
 
 ## 🛠️ Tecnologias e Ferramentas
 
-As principais tecnologias aplicadas neste repositório incluem:
+As principais tecnologias aplicadas neste repositório são:
 
 🧱 **Principais Stacks:**
 
