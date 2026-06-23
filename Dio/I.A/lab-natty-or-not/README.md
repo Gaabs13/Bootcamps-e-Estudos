@@ -18,8 +18,11 @@ Mais do que acompanhar tendências, a proposta aqui é **entender o uso prático
 
 # Projeto: Plantas do Mundo Digital
 
-[![Clique para assistir ao vídeo](.assets/print-demo.jpg)](./Plantas-mundo-digital.mp4)
+<p align="center">
+  <img src="./assets/print-demo.jpg" alt="Banner" width="100%" />
+</p>
 
+O vídeo está no repositório, fique a vontade!
 
 ## 📒 Descrição
 
