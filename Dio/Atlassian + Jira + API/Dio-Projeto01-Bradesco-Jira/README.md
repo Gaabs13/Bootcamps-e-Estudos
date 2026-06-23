@@ -5,7 +5,7 @@ Esse repositório está associado ao board Scrum no Jira e foi criado como demon
 Ele faz parte de uma atividade aplicada ao Bootcamp DIO + Bradesco, servindo como referência de boas práticas de documentação, planejamento e execução técnica.
 
 ## 👉 Board no Jira:
-<img src="./assets/jira.jpg" alt="Mapa com scatterplot layer" width="100%" />
+<img src="./assets/jira.jpg" alt="demonstração projeto layer" width="100%" />
 https://breezelabstudio.atlassian.net/jira/software/projects/SCRUM/boards/1
 
 Além do propósito demonstrativo, o projeto também representa um estudo conceitual de um dado eletrônico inteligente, com seleção de tipos de dado, animações, sensor de movimento e integração de firmware.
