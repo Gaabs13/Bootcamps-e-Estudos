@@ -62,7 +62,7 @@ Organização visual de conteúdo
 Responsividade básica
 
 
-## 🚀 Como Executar
+##  Como Executar
 
 **Clone o repositório**
 
@@ -88,7 +88,7 @@ em qualquer navegador moderno.
 
 
 
-## 📂 Estrutura do Projeto
+**📂 Estrutura do Projeto**
 
 ```text
 projeto-html/
