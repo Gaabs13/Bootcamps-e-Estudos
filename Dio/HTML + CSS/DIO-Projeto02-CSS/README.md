@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🚀 Trilha CSS - Desafio DIO
 
 <p align="center">
@@ -18,33 +20,33 @@ Aplicar conhecimentos de estruturação semântica com HTML e estilização avan
 
 ## 🛠️ Tecnologias Utilizadas
 
-* HTML5
-* CSS3
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## ✨ Personalizações Implementadas
 
 Além da proposta original do desafio, foram adicionadas melhorias para aprimorar a experiência visual:
 
-* Efeitos neon em elementos interativos
-* Animações de entrada
-* Hover effects personalizados
-* Layout responsivo para diferentes dispositivos
-* Seções organizadas visualmente
-* Botão de retorno ao topo
-* Melhorias na identidade visual
+Efeitos neon em elementos interativos
+Animações de entrada
+Hover effects personalizados
+Layout responsivo para diferentes dispositivos
+Seções organizadas visualmente
+Botão de retorno ao topo
+Melhorias na identidade visual
 
 ## 📚 Conceitos Praticados
 
-* Estrutura semântica de páginas web
-* Posicionamento com Flexbox
-* Variáveis globais com `:root`
-* Media Queries
-* Pseudo-elementos `::before` e `::after`
-* Keyframes e animações CSS
-* Gradientes e efeitos visuais
-* Organização e escalabilidade do código CSS
+Estrutura semântica de páginas web
+Posicionamento com Flexbox
+Variáveis globais com `:root`
+Media Queries
+Pseudo-elementos `::before` e `::after`
+Keyframes e animações CSS
+Gradientes e efeitos visuais
+Organização e escalabilidade do código CSS
 
+</div>
   
-Este projeto foi importante para consolidar conceitos fundamentais de CSS e compreender como pequenas melhorias visuais podem impactar significativamente a experiência do usuário.
+>Este projeto foi importante para consolidar conceitos fundamentais de CSS e compreender como pequenas melhorias visuais podem impactar significativamente a experiência do usuário.
 
 
