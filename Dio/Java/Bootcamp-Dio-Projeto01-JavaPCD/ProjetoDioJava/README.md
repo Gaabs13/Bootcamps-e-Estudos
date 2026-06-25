@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
 
 # 📌 Projeto DIO + Bradesco PCD Tech Java & QA Developer - Projeto Introdutório
 
