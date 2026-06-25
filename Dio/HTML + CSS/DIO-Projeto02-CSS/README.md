@@ -12,11 +12,11 @@ Projeto desenvolvido como parte da formação da Digital Innovation One (DIO), c
 
 Aplicar conhecimentos de estruturação semântica com HTML e estilização avançada com CSS, explorando conceitos como:
 
-* Flexbox
-* Responsividade
-* Variáveis CSS
-* Pseudo-elementos
-* Organização de layout
+Flexbox
+Responsividade
+Variáveis CSS
+Pseudo-elementos
+Organização de layout
 
 ## 🛠️ Tecnologias Utilizadas
 
