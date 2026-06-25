@@ -131,4 +131,4 @@ Direcionamento das correções às áreas responsáveis;
 
 </div>
 
->**Tudo isso aplicado como case prático para o Bootcamp DIO + Bradesco.**
+>Tudo isso aplicado como case prático para o **Bootcamp DIO + Bradesco.**
