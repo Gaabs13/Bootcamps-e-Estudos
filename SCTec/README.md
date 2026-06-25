@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🏢 SCTec
 
 Repositório dedicado aos estudos e atividades desenvolvidas durante a trilha de desenvolvimento tecnológico do **SCTEC**, programa de capacitação em tecnologia e Inteligência Artificial.
@@ -12,9 +14,9 @@ A iniciativa oferece jornadas flexíveis e gratuitas voltadas tanto para inician
 
 O programa é organizado em trilhas de desenvolvimento, permitindo a escolha de caminhos:
 
-- Desenvolvimento de Software
-- Análise de Dados
-- Inteligência Artificial
+**Desenvolvimento de Software**
+Análise de Dados
+**Inteligência Artificial**
 
 
 ## 🧠 Objetivo do repositório
@@ -23,18 +25,18 @@ Este repositório tem como finalidade documentar a evolução ao longo da trilha
 
 O foco está em:
 
-- Consolidação de conhecimentos técnicos
-- Aplicação prática dos conteúdos estudados
-- Evolução progressiva dentro da trilha
-- Organização de aprendizados e exercícios
-- Construção de base sólida em desenvolvimento de software
+**Consolidação de conhecimentos técnicos**
+Aplicação prática dos conteúdos estudados
+**Evolução progressiva dentro da trilha**
+Organização de aprendizados e exercícios
+**Construção de base sólida em desenvolvimento de software**
 
 A trilha contribui para o desenvolvimento de competências em:
 
-- Lógica de programação e desenvolvimento de software
-- Estruturação de sistemas
-- Fundamentos de dados e inteligência artificial
-- Práticas modernas de engenharia de software
+**Lógica de programação e desenvolvimento de software**
+Estruturação de sistemas
+**Fundamentos de dados e inteligência artificial**
+Práticas modernas de engenharia de software
   
 Este é um repositório em constante atualização, podendo receber novos exercícios, projetos e anotações conforme o avanço na trilha de desenvolvimento.
 
