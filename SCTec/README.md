@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🏢 SCTec
+<p align="center">
+  <img src="./assets/sctec-header.png" alt="Banner" width="100%" />
+</p>
 
 Repositório dedicado aos estudos e atividades desenvolvidas durante a trilha de desenvolvimento tecnológico do **SCTEC**, programa de capacitação em tecnologia e Inteligência Artificial.
 
