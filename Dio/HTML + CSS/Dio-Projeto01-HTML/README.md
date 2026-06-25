@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte dos estudos de **HTML5**, com o objetiv
 
 A aplicação apresenta uma página informativa que aborda desde a estrutura básica de documentos HTML até conceitos mais avançados, como **HTML Semântico**, integração com **CSS** e **JavaScript**, acessibilidade, organização de conteúdo e boas práticas de desenvolvimento web.
 
-## 🎯 Objetivos de Aprendizagem
+**🎯 Objetivos de Aprendizagem**
 
 Compreender a estrutura fundamental de um documento HTML
 Utilizar corretamente elementos semânticos do HTML5
@@ -16,7 +16,7 @@ Entender a integração entre HTML, CSS e JavaScript
 Desenvolver páginas mais acessíveis e otimizadas para SEO
 
 
-## 🛠️ Tecnologias Utilizadas
+**🛠️ Tecnologias Utilizadas**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
