@@ -110,9 +110,8 @@ Bugs identificados;
 
 Direcionamento das correções às áreas responsáveis;
 
-## 🚀 Como este repositório demonstra a metodologia ágil
+## 🚀 Este projeto exemplifica:
 
-**Este projeto exemplifica:**
 
 ✔ Estruturação clara de backlog;
 
