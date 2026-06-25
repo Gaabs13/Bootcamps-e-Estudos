@@ -2,11 +2,12 @@
 
 # 🚀 Trilha CSS - Desafio DIO
 
+Projeto desenvolvido como parte da formação da Digital Innovation One (DIO), com o objetivo de praticar conceitos fundamentais de HTML5 e CSS3 através da recriação e personalização de uma landing page.
+
 <p align="center">
   <img src="./assets/logo-neon.png" alt="Banner" width="100%" />
 </p>
 
-Projeto desenvolvido como parte da formação da Digital Innovation One (DIO), com o objetivo de praticar conceitos fundamentais de HTML5 e CSS3 através da recriação e personalização de uma landing page.
 
 ## 📋 Objetivo
 
