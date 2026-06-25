@@ -17,8 +17,8 @@ Além do propósito demonstrativo, o projeto também representa um estudo concei
 Este repositório cumpre **dois propósitos principais:**
 
 ### 1. Demonstração profissional de organização em Jira
-<br>
-• Mostra como estruturo um **fluxo ágil completo:**
+
+Mostra como estruturo um **fluxo ágil completo:**
 
 → criação de epics <br>
 → stories detalhadas <br>
@@ -26,92 +26,92 @@ Este repositório cumpre **dois propósitos principais:**
 → categorização por áreas (firmware, UI, hardware, animação, QA) <br>
 → documentação clara e rastreável <br>
 
-• Demonstra como integro o Jira ao GitHub utilizando commits, branches e PRs vinculados a issues.
+Demonstra como integro o Jira ao GitHub utilizando commits, branches e PRs vinculados a issues.
 
 Funciona como portfólio prático sobre metodologia ágil para o Bootcamp DIO + Bradesco.
 
 ### 2. Centralização e documentação do projeto técnico
+
+Agrupa notas, versões, códigos e decisões do protótipo do sistema de dado eletrônico;
 <br>
-• Agrupa notas, versões, códigos e decisões do protótipo do sistema de dado eletrônico;
-<br>
-• Serve como hub organizacional entre desenvolvimento, testes físicos e design;
+Serve como hub organizacional entre desenvolvimento, testes físicos e design;
 
 📁 Conteúdo Catalogado (Por Fluxos de Trabalho)
 
 **Abaixo está o conjunto de tópicos, tarefas e áreas que servem tanto como documentação do projeto quanto como exemplo de estruturação profissional no Jira.**
 
 ## 🧠 1. Core Logic & Algoritmo
-<br>
-• Desenvolvimento do algoritmo principal;
 
-• Lógica de geração aleatória;
+Desenvolvimento do algoritmo principal;
 
-• Lógica de range para D3, D4, D6, D8, D10, D12, D20, D100;
+Lógica de geração aleatória;
 
-• Persistência de configurações;
+Lógica de range para D3, D4, D6, D8, D10, D12, D20, D100;
 
-• Validação de distribuição;
+Persistência de configurações;
 
-• Melhorias e refinamentos;
+Validação de distribuição;
+
+Melhorias e refinamentos;
 
 ## 📟 2. Interface e Display
-<br>
-• Interface de seleção do tipo de dado;
 
-• Layout do display circular;
+Interface de seleção do tipo de dado;
 
-• Renderização e animação dos números;
+Layout do display circular;
 
-• Fluxo de troca de dados;
+Renderização e animação dos números;
 
-• Ajustes de usabilidade;
+Fluxo de troca de dados;
+
+Ajustes de usabilidade;
 
 ## 🎞️ 3. Animações
-<br>
-• Criação da animação de rolagem;
 
-• Testes de fluidez;
+Criação da animação de rolagem;
 
-• Ajustes de velocidade e easing;
+Testes de fluidez;
 
-• Correção de travamentos;
+Ajustes de velocidade e easing;
+
+Correção de travamentos;
 
 ## 🌀 4. Sensor de Movimento
-<br>
-• Integração com acelerômetro;
 
-• Ajuste de thresholds;
+Integração com acelerômetro;
 
-• Calibração automática;
+Ajuste de thresholds;
 
-• Leitura e filtragem de ruído;
+Calibração automática;
 
-• Detecção de arremesso;
+Leitura e filtragem de ruído;
+
+Detecção de arremesso;
 
 ## 🧩 5. Hardware & Design Físico
-<br>
-• Prototipagem do corpo do dado;
 
-• Miniaturização dos componentes;
+Prototipagem do corpo do dado;
 
-• Adaptação para display circular;
+Miniaturização dos componentes;
 
-• Testes de encaixe e impacto;
+Adaptação para display circular;
+
+Testes de encaixe e impacto;
 
 ## 🧪 6. QA & Validações
-<br>
-• Testes físicos de rolagem;
 
-• Avaliação de responsividade;
+Testes físicos de rolagem;
 
-• Logs de comportamento;
+Avaliação de responsividade;
 
-• Bugs identificados;
+Logs de comportamento;
 
-• Direcionamento das correções às áreas responsáveis;
+Bugs identificados;
+
+Direcionamento das correções às áreas responsáveis;
 
 ## 🚀 Como este repositório demonstra a metodologia ágil
-<br>
+
 **Este projeto exemplifica:**
 
 ✔ Estruturação clara de backlog;
