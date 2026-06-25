@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🎓 Digital Innovation One (DIO)
 
 Repositório dedicado aos estudos, desafios e projetos desenvolvidos durante a jornada de aprendizado na plataforma **Digital Innovation One (DIO)**.
@@ -13,11 +15,11 @@ Mais do que concluir cursos ou trilhas, o foco está na compreensão profunda do
 
 A abordagem inclui a constante revisão e aprimoramento dos conteúdos, buscando:
 
-- Reforçar fundamentos técnicos
-- Aplicar boas práticas de desenvolvimento
-- Refatorar e melhorar códigos existentes
-- Explorar novas abordagens e soluções
-- Acompanhar a evolução individual ao longo do tempo
+**Reforçar fundamentos técnicos**
+Aplicar boas práticas de desenvolvimento
+**Refatorar e melhorar códigos existentes**
+Explorar novas abordagens e soluções
+**Acompanhar a evolução individual ao longo do tempo**
 
 
 ## 📈 Evolução contínua
@@ -28,11 +30,13 @@ Ele também funciona como um registro de evolução técnica, permitindo observa
 
 O foco está em aprendizado aplicado, com atenção especial a:
 
-- Conceitos fundamentais de programação
-- Boas práticas de desenvolvimento de software
-- Estruturação de projetos reais
-- Pensamento lógico e resolução de problemas
-- Consolidação de conhecimento técnico
+**Conceitos fundamentais de programação**
+Boas práticas de desenvolvimento de software
+**Estruturação de projetos reais**
+Pensamento lógico e resolução de problemas
+**Consolidação de conhecimento técnico**
+
+</div>
 
 ---
 
