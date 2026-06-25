@@ -38,5 +38,5 @@ A trilha contribui para o desenvolvimento de competências em:
   
 Este é um repositório em constante atualização, podendo receber novos exercícios, projetos e anotações conforme o avanço na trilha de desenvolvimento.
 
-“A formação técnica é um processo contínuo de construção, adaptação e crescimento profissional.”
+>“A formação técnica é um processo contínuo de construção, adaptação e crescimento profissional.”
 
