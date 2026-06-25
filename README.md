@@ -9,7 +9,7 @@ O repositório está organizado por instituições de ensino e tecnologias estud
 ### 🏛️ [DIO (Digital Innovation One)](./Dio/)
 Base de estudos desenvolvida a partir das formações e desafios da plataforma Digital Innovation One (DIO), com foco em desenvolvimento de software, fundamentos de programação e aplicação prática de tecnologias.
 
-**Desenvolvimento front-end e Back-End**
+**Desenvolvimento Front-End e Back-End**
 Estruturação de projetos e boas práticas
 **Integração com APIs e serviços externos**
 Estudos de Java, JavaScript, HTML e CSS
@@ -19,7 +19,7 @@ Construção de soluções aplicadas a cenários reais
 ### 🏢 [SCTec](./SCTec/)
 Espaço dedicado aos estudos realizados durante a trilha Carreira Tech do SCTEC, programa de capacitação tecnológica e Inteligência Artificial do Governo de Santa Catarina em parceria com o SENAI/SC.
 
-**Desenvolvimento de software**
+**Desenvolvimento de Software**
 Lógica de programação e estruturação de sistemas
 **Fundamentos de Inteligência Artificial**
 Construção de soluções práticas e projetos aplicados
