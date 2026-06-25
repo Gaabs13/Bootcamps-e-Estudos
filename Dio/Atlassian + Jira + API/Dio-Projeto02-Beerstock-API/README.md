@@ -61,7 +61,7 @@ Mockito
 MockMvc
 
 </div>
----
+
 
 ### ▶️ **Como rodar**
 
@@ -79,7 +79,6 @@ mvn test
 
 Tudo roda em memória, **sem necessidade de configuração externa.**
 
----
 
 
 > É um **projeto simples, mas honesto** — feito para **aprender, testar e documentar** o caminho.
