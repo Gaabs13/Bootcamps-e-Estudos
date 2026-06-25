@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💻 Estudos Front-End
 
 Repositório dedicado aos meus estudos e experimentações em desenvolvimento front-end, com foco na criação de interfaces interativas, integrações com APIs e soluções criativas aplicadas a produtos web.
@@ -8,11 +10,11 @@ O foco principal está na construção de páginas interativas, exploração de 
 
 O direcionamento desta trilha é baseado em:
 
-- Desenvolvimento de interfaces interativas e responsivas
-- Criação de experiências de usuário dinâmicas
-- Integração com APIs e serviços externos
-- Construção de soluções criativas aplicadas a web
-- Evolução contínua em padrões modernos de front-end
+**Desenvolvimento de interfaces interativas e responsivas**
+Criação de experiências de usuário dinâmicas
+**Integração com APIs e serviços externos**
+Construção de soluções criativas aplicadas a web
+**Evolução contínua em padrões modernos de front-end**
 
 
 Atualmente, os estudos são baseados principalmente em:
@@ -29,11 +31,11 @@ Atualmente, os estudos são baseados principalmente em:
 
 **Os projetos aqui presentes têm como objetivo:**
 
-- Explorar novas possibilidades de UI/UX;
-- Testar integrações e fluxos de dados;
-- Desenvolver componentes reutilizáveis;
-- Aprimorar arquitetura front-end;
-- Simular cenários reais de aplicação;
+Explorar novas possibilidades de UI/UX
+**Testar integrações e fluxos de dados**
+Desenvolver componentes reutilizáveis
+**Aprimorar arquitetura front-end**
+Simular cenários reais de aplicação
 
 
 Este é um repositório em constante evolução, onde novos estudos, testes e experimentos são adicionados conforme avanço técnico e exploração de novas tecnologias.
@@ -41,11 +43,12 @@ Este é um repositório em constante evolução, onde novos estudos, testes e ex
 
 **A evolução desta pasta está focada em:**
 
-- Interfaces modernas baseadas em componentes;
-- Arquitetura front-end escalável;
-- Performance e boas práticas;
-- Experiências interativas e criativas;
-- Desenvolvimento orientado a produto;
+Interfaces modernas baseadas em componentes;
+**Arquitetura front-end escalável**
+Performance e boas práticas;
+**Experiências interativas e criativas**
+Desenvolvimento orientado a produto
 
+</div>
 
 > “Interfaces ganham valor quando deixam de ser estáticas e passam a responder ao usuário.”
