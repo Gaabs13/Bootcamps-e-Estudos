@@ -1,10 +1,10 @@
 <div align="center">
 
+# Mini-Projeto Avaliativo - SkillMatch JS: Simulador de Compatibilidade de Vagas
+
 <p align="center">
   <img src="./assets/01.png" alt="Banner" width="100%" />
 </p>
-
-# Mini-Projeto Avaliativo - SkillMatch JS: Simulador de Compatibilidade de Vagas
 
 
 O **SkillMatch JS** é um mini-projeto desenvolvido em **JavaScript** com o objetivo de simular um sistema de análise de compatibilidade entre candidatos e vagas da área de tecnologia, com foco em posições de **Front-End Júnior**.
