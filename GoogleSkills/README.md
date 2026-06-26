@@ -2,13 +2,12 @@
 
 # 🌐 GoogleSkills
 
-Repositório de estudos e experimentações baseados na plataforma oficial **Google Skills**, do Google.
+<p align="center">
+  <img src="./assets/01.png" alt="Banner" width="100%" />
+</p>
 
-
-
-## 🚀 Sobre a plataforma
-
-O Google Skills é a plataforma oficial do Google voltada à capacitação tecnológica em áreas como:
+Repositório de estudos e experimentações baseados na plataforma oficial **Google Skills**.
+A plataforma oficial do Google voltada à capacitação tecnológica em áreas como:
 
 **Inteligência Artificial (IA)**
 Computação em Nuvem
@@ -20,6 +19,10 @@ A plataforma oferece uma abordagem estruturada de aprendizado contínuo, combina
 
 
 ## 📚 Ecossistema de aprendizado
+
+<p align="center">
+  <img src="./assets/02.png" alt="Banner" width="100%" />
+</p>
 
 A plataforma é composta por um ecossistema completo de recursos educacionais:
 
@@ -52,10 +55,10 @@ A plataforma oferece também créditos mensais gratuitos para execução de labo
 
 Este repositório tem como objetivo documentar estudos, práticas e experimentações realizadas a partir do Google Skills, funcionando como base de evolução contínua em:
 
-**Desenvolvimento front-end e back-end**
-Integração com APIs e serviços cloud
-**Estudo aplicado de inteligência artificial**
-Práticas de engenharia de software moderna
+**Desenvolvimento Front-End e Back-End**
+Integração com APIs e Serviços Cloud
+**Estudo aplicado de Inteligência Artificial**
+Práticas de Engenharia de Software Moderna
 
 Este é um repositório em constante evolução, utilizado como:
 
