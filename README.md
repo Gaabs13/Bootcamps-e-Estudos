@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="./assets/01.gif" alt="Banner" width="100%" />
-</p>
+
 
 ## 📂 Estrutura do Repositório
 
