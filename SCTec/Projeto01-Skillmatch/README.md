@@ -23,7 +23,7 @@ Praticar organização e estruturação de código
 Demonstrar conceitos de programação assíncrona
 
 
-# 🛠️ Tecnologias Utilizadas
+**🛠️ Tecnologias Utilizadas**
 
 **JavaScript (ES6+)**
 **Node.js**
@@ -37,7 +37,7 @@ Async/Await
 Simulação de API/Servidor
 
 
-# ⚙️ Funcionalidades
+**⚙️ Funcionalidades**
 
 ✅ Cadastro de habilidades do candidato  
 ✅ Comparação com requisitos das vagas  
@@ -47,7 +47,7 @@ Simulação de API/Servidor
 ✅ Simulação de resposta assíncrona de servidor  
 
 
-# 📂 Estrutura do Projeto
+**📂 Estrutura do Projeto**
 
 </div>
 
