@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="./assets/01.gif" alt="Banner" width="100%" />
+</p>
+
 ## 📂 Estrutura do Repositório
 
 Repositório dedicado ao armazenamento de projetos, códigos, desafios e anotações desenvolvidos durante a minha contínua jornada de aprendizado em Bootcamps, Cursos e Projetos Práticos.
