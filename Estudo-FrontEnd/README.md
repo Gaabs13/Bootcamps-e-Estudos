@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="./assets/01.gif" alt="Banner" width="100%" />
+</p>
+
 # 💻 Estudos Front-End
 
 Repositório dedicado aos meus estudos e experimentações em desenvolvimento front-end, com foco na criação de interfaces interativas, integrações com APIs e soluções criativas aplicadas a produtos web.
