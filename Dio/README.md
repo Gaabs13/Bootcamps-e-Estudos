@@ -1,12 +1,13 @@
 <div align="center">
 
+<p align="center">
+  <img src="./assets/logo-neon.png" alt="Banner" width="100%" />
+</p>
+
 # 🎓 Digital Innovation One (DIO)
 
 Repositório dedicado aos estudos, desafios e projetos desenvolvidos durante a jornada de aprendizado na plataforma **Digital Innovation One (DIO)**.
 
-
-
-## 🎯 Objetivo
 
 Este espaço tem como objetivo documentar a evolução técnica ao longo dos estudos realizados na plataforma, organizando práticas, exercícios e projetos desenvolvidos durante as formações.
 
