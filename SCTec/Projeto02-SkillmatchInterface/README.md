@@ -48,9 +48,10 @@ Todo o conteúdo da interface é renderizado dinamicamente utilizando JavaScript
 Link do Kanban: https://trello.com/b/O1yQPu8x/sctec <br>
 Link Vídeo Explicativo: https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci <br>
 
-</div>
 
 # 🔄 Fluxo da Aplicação
+
+</div>
 
 ```text
 Página Inicial
