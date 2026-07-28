@@ -45,8 +45,8 @@ A aplicação permite que o usuário:
 
 Todo o conteúdo da interface é renderizado dinamicamente utilizando JavaScript puro.
 
-Link do Kanban: https://trello.com/b/O1yQPu8x/sctec<br>
-Link Vídeo Explicativo: https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci<br>
+Link do Kanban: https://trello.com/b/O1yQPu8x/sctec <br>
+Link Vídeo Explicativo: https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci <br>
 
 </div>
 
