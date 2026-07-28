@@ -51,7 +51,7 @@ Link Vídeo Explicativo: https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci <br
 
 **🔄 Fluxo da Aplicação**
 
-```text
+
 
                                               Página Inicial
 
@@ -78,7 +78,7 @@ Link Vídeo Explicativo: https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci <br
                                                   ▼
 
                                           Recomendação de Estudos
-```
+
 
 
 **🏗 Arquitetura**
