@@ -56,25 +56,25 @@ Todo o conteúdo da interface é renderizado dinamicamente utilizando **JavaScri
 **🔄 Fluxo da Aplicação**
 
 <pre>
-                     Página Inicial
-                           │
-                           ▼
-                  Perfil Encontrado
-                           │
-                           ▼
-                    Novo Cadastro
-                           │
-                           ▼
-              Confirmação do Cadastro
-                           │
-                           ▼
-             Análise de Compatibilidade
-                           │
-                           ▼
-                Resultado das Vagas
-                           │
-                           ▼
-             Recomendação de Estudos
+  Página Inicial
+        │
+        ▼
+Perfil Encontrado
+        │
+        ▼
+Novo Cadastro
+        │
+        ▼
+Confirmação do Cadastro
+        │
+        ▼
+Análise de Compatibilidade
+        │
+        ▼
+Resultado das Vagas
+        │
+        ▼
+Recomendação de Estudos
 </pre>
 
 
@@ -83,46 +83,46 @@ Todo o conteúdo da interface é renderizado dinamicamente utilizando **JavaScri
 A aplicação foi organizada utilizando <strong>ES Modules</strong>, separando responsabilidades entre os módulos e facilitando a manutenção, escalabilidade e reutilização do código.
 
 <pre>
-                      main.js
-                         │
-                         ▼
-             Inicialização da aplicação
-                         │
-                         ▼
-                      motor.js
-                         │
-                         ▼
-       Regras de negócio e compatibilidade
-                         │
-                         ▼
-                        ui.js
-                         │
-                         ▼
-      Fluxo das telas e gerenciamento UI
-                         │
-                         ▼
-                  componentes.js
-                         │
-                         ▼
-        Biblioteca de componentes reutilizáveis
-                         │
-                         ▼
-                    terminal.js
-                         │
-                         ▼
-       Renderização, animações e efeitos
-                         │
-                         ▼
-                     dados.js
-                         │
-                         ▼
- Fetch das vagas e persistência em LocalStorage
-                         │
-                         ▼
-                      i18n.js
-                         │
-                         ▼
-        Internacionalização da interface
+main.js
+   │
+   ▼
+Inicialização da aplicação
+   │
+   ▼
+motor.js
+   │
+   ▼
+Regras de negócio e compatibilidade
+   │
+   ▼
+ui.js
+   │
+   ▼
+Fluxo das telas e gerenciamento UI
+   │
+   ▼
+componentes.js
+   │
+   ▼
+Biblioteca de componentes reutilizáveis
+   │
+   ▼
+terminal.js
+   │
+   ▼
+Renderização, animações e efeitos
+   │
+   ▼
+dados.js
+   │
+   ▼
+Fetch das vagas e persistência em LocalStorage
+   │
+   ▼
+i18n.js
+   │
+   ▼
+Internacionalização da interface
 </pre>
 
 
