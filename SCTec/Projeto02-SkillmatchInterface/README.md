@@ -54,6 +54,8 @@ Link Vídeo Explicativo: https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci <br
 </div>
 
 ```text
+<div align="center">
+
 Página Inicial
 
       ▼
@@ -79,6 +81,8 @@ Resultado das Vagas
       ▼
 
 Recomendação de Estudos
+
+</div>
 ```
 <div align="center">
 
