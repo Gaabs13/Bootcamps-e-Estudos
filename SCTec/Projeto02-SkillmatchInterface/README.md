@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# 💼 SkillMatch Web
-
 > Projeto desenvolvido como avaliação final do **Módulo 01** do curso **Desenvolvimento Web**, promovido pela **SCtec**.
 
 O **SkillMatch Web** transforma o motor de compatibilidade desenvolvido anteriormente em JavaScript (Console) em uma aplicação Web completa, permitindo que candidatos informem seu perfil profissional e descubram seu nível de compatibilidade com vagas da área de tecnologia.
