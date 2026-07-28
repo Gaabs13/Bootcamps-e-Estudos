@@ -15,20 +15,20 @@ Este projeto reúne os principais conhecimentos apresentados ao longo do módulo
 
  **📚 Conteúdos abordados**
 
-• HTML5 
-• CSS3 
-• JavaScript 
-• Programação Orientada a Objetos 
-• DOM 
-• Eventos 
-• Responsividade 
-• SEO 
-• Acessibilidade 
-• Fetch API 
-• LocalStorage 
-• Modularização 
-• Git 
-• GitHub
+- HTML5 
+- CSS3 
+- JavaScript 
+- Programação Orientada a Objetos 
+- DOM 
+- Eventos 
+- Responsividade 
+- SEO 
+- Acessibilidade 
+- Fetch API 
+- LocalStorage 
+- Modularização 
+- Git 
+- GitHub
 
 
 **🚀 Sobre o Projeto**
