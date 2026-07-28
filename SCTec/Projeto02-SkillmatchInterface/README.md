@@ -30,7 +30,7 @@ Durante o Módulo 01 foram abordados conceitos fundamentais de desenvolvimento F
 Este projeto reúne os principais conhecimentos apresentados ao longo do módulo em uma única aplicação.
 
 
-## 🚀 Sobre o Projeto
+** 🚀 Sobre o Projeto **
 
 O SkillMatch Web simula uma plataforma de recrutamento para desenvolvedores.
 
@@ -49,7 +49,7 @@ Link do Kanban: https://trello.com/b/O1yQPu8x/sctec <br>
 Link Vídeo Explicativo: https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci <br>
 
 
-# 🔄 Fluxo da Aplicação
+** 🔄 Fluxo da Aplicação **
 
 </div>
 
@@ -82,7 +82,7 @@ Recomendação de Estudos
 ```
 <div align="center">
 
-# 🏗 Arquitetura
+** 🏗 Arquitetura **
 
 A aplicação foi organizada utilizando **ES Modules**, separando responsabilidades entre os arquivos.
 
@@ -106,7 +106,7 @@ A aplicação foi organizada utilizando **ES Modules**, separando responsabilida
 
 <div align="center">
 
-# 📌 Cadastro
+** 📌 Cadastro **
 
 O cadastro presente nesta versão possui finalidade demonstrativa.
 
@@ -115,7 +115,7 @@ A interface já está preparada para envio dos dados, porém a persistência def
 
 # ✅ Requisitos Atendidos
 
-### Motor SkillMatch
+** Motor SkillMatch **
 
 ✅ Perfil modelado em objeto
 ✅ Catálogo de vagas em JSON
@@ -130,7 +130,7 @@ A interface já está preparada para envio dos dados, porém a persistência def
 ✅ Callback
 ✅ Closure
 
-### Interface
+** Interface **
 
 ✅ HTML semântico
 ✅ SEO básico
@@ -142,7 +142,7 @@ A interface já está preparada para envio dos dados, porém a persistência def
 ✅ Responsividade Mobile First
 ✅ Layout utilizando Flexbox
 
-### Dados
+** Dados **
 
 ✅ Fetch API
 ✅ Tratamento de carregamento
@@ -151,7 +151,7 @@ A interface já está preparada para envio dos dados, porém a persistência def
 ✅ LocalStorage
 ✅ Persistência do perfil
 
-### Organização
+** Organização **
 
 ✅ ES Modules
 ✅ Código modular
@@ -177,7 +177,7 @@ Além dos requisitos obrigatórios, foram adicionadas melhorias visando organiza
 ⭐ Estrutura preparada para futuras integrações com IA
 
 
-# 🛠 Tecnologias
+** 🛠 Tecnologias **
 
 • HTML5
 • CSS3
@@ -191,7 +191,7 @@ Além dos requisitos obrigatórios, foram adicionadas melhorias visando organiza
 
 
 
-# 🚀 Como executar
+** 🚀 Como executar **
 
 </div>
 
