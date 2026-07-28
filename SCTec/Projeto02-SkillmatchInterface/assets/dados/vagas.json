@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "empresa": "WebSolutions",
+        "cargo": "Front-End Júnior",
+        "requisitos": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Git",
+            "Responsividade",
+            "Funções",
+            "React"
+        ],
+        "salario": "R$ 2800",
+        "modalidade": "Remoto"
+    },
+    {
+        "id": 2,
+        "empresa": "DevConnect",
+        "cargo": "Desenvolvedor Front-End",
+        "requisitos": [
+            "HTML",
+            "CSS",
+            "React",
+            "API",
+            "Node.js",
+            "TypeScript"
+        ],
+        "salario": "R$ 3200",
+        "modalidade": "Híbrido"
+    },
+    {
+        "id": 3,
+        "empresa": "CodeWave",
+        "cargo": "Programador JavaScript Jr",
+        "requisitos": [
+            "Python",
+            "Docker",
+            "AWS",
+            "MongoDB",
+            "JavaScript"
+        ],
+        "salario": "R$ 3500",
+        "modalidade": "Presencial"
+    }
+]

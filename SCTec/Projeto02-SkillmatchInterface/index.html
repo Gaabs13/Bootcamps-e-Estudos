@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SkillMatch - Descubra a vaga ideal para o seu perfil através de uma análise inteligente de compatibilidade.">
+    <title>SkillMatch • O seu próximo match na carreira dev</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/styles/index.style.css">
+</head>
+<body>
+    <div class="background-media" aria-hidden="true">
+        <video autoplay muted loop playsinline preload="metadata">
+            <source src="./assets/img/background.mp4" type="video/mp4">
+        </video>
+    </div>
+
+    <header class="header">
+        <div class="header__brand">
+            <img src="./assets/img/logo.png" alt="Logo SkillMatch" class="header__logo">
+            <span class="header__name" aria-label="SkillMatch"><span class="header__name-skill">Skill</span><span class="header__name-match">Match</span></span>
+        </div>
+        <nav class="header__language" data-i18n-aria-label="static.languageLabel" aria-label="Selecionar idioma">
+            <button type="button" data-language="pt" aria-pressed="true">PT</button>
+            <button type="button" data-language="en" aria-pressed="false">EN</button>
+            <button type="button" data-language="es" aria-pressed="false">ES</button>
+        </nav>
+    </header>
+
+    <main class="app">
+        <section class="hero" aria-labelledby="titulo-principal">
+            <h1 id="titulo-principal" aria-label="SkillMatch"><span class="hero__name-skill">Skill</span><span class="hero__name-match">Match</span></h1>
+            <h2 data-i18n="static.heroSubtitle">O seu próximo match na carreira dev pode estar próximo.</h2>
+            <p data-i18n="static.heroDescription">Descubra quais vagas combinam com seu perfil utilizando uma análise inteligente baseada nas suas habilidades.</p>
+        </section>
+        <section class="terminal" id="terminal" data-i18n-aria-label="static.terminalLabel" aria-label="Painel principal">
+            <div class="terminal__window">
+                <header class="terminal__header">
+                    <div class="terminal__controls"><span class="terminal__control terminal__control--red"></span><span class="terminal__control terminal__control--yellow"></span><span class="terminal__control terminal__control--green"></span></div>
+                    <span class="terminal__title">SkillMatch.app</span>
+                </header>
+                <div id="terminal-content" class="terminal__content" aria-live="polite" tabindex="0"></div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer"><small data-i18n="static.footer">© 2026 SkillMatch • Desenvolvido por Gabriel Carlos de Souza</small></footer>
+    <script type="module" src="./assets/scripts/main.js"></script>
+</body>
+</html>
