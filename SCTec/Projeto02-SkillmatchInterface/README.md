@@ -45,8 +45,10 @@ A aplicação permite que o usuário:
 
 Todo o conteúdo da interface é renderizado dinamicamente utilizando JavaScript puro.
 
-Link do Kanban: https://trello.com/b/O1yQPu8x/sctec
-Link Vídeo Explicativo: https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci
+Link do Kanban: https://trello.com/b/O1yQPu8x/sctec<br>
+Link Vídeo Explicativo: https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci<br>
+
+</div>
 
 # 🔄 Fluxo da Aplicação
 
@@ -77,12 +79,13 @@ Resultado das Vagas
 
 Recomendação de Estudos
 ```
-
----
+<div align="center">
 
 # 🏗 Arquitetura
 
 A aplicação foi organizada utilizando **ES Modules**, separando responsabilidades entre os arquivos.
+
+</div>
 
                          | Arquivo | Responsabilidade |
                       |---------------|------------------|
@@ -100,6 +103,7 @@ A aplicação foi organizada utilizando **ES Modules**, separando responsabilida
                                       ▼
             | **i18n.js** | Internacionalização da interface |
 
+<div align="center">
 
 # 📌 Cadastro
 
@@ -185,7 +189,10 @@ Além dos requisitos obrigatórios, foram adicionadas melhorias visando organiza
 • GitHub
 
 
+
 # 🚀 Como executar
+
+</div>
 
 Clone o projeto:
 
@@ -197,6 +204,7 @@ Abra a pasta no **Visual Studio Code** e execute utilizando o **Live Server**.
 
 > A aplicação utiliza ES Modules e Fetch API, portanto deve ser executada através de um servidor local.
 
+<div align="center">
 
 # 🔮 Melhorias futuras que podem ser aplicadas
 
@@ -207,6 +215,6 @@ Abra a pasta no **Visual Studio Code** e execute utilizando o **Live Server**.
 - Recomendações utilizando IA
 - Tradução para novos idiomas
 - Deploy em produção
-  </div>
+</div>
 
 > Desenvolvido por **Gabriel Carlos de Souza** como projeto avaliativo do **Módulo 01** do curso **Desenvolvimento Web — SCtec**.
