@@ -30,7 +30,7 @@ Durante o Módulo 01 foram abordados conceitos fundamentais de desenvolvimento F
 Este projeto reúne os principais conhecimentos apresentados ao longo do módulo em uma única aplicação.
 
 
-# 🚀 Sobre o Projeto
+## 🚀 Sobre o Projeto
 
 O SkillMatch Web simula uma plataforma de recrutamento para desenvolvedores.
 
