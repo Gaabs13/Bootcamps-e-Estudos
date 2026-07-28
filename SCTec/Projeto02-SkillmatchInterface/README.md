@@ -15,10 +15,20 @@ Este projeto reúne os principais conhecimentos apresentados ao longo do módulo
 
  **📚 Conteúdos abordados**
 
-HTML5 • CSS3 • JavaScript • Programação Orientada a Objetos • DOM • Eventos • Responsividade • SEO • Acessibilidade • Fetch API • LocalStorage • Modularização • Git • GitHub
-
-</div>
-
+• HTML5 
+• CSS3 
+• JavaScript 
+• Programação Orientada a Objetos 
+• DOM 
+• Eventos 
+• Responsividade 
+• SEO 
+• Acessibilidade 
+• Fetch API 
+• LocalStorage 
+• Modularização 
+• Git 
+• GitHub
 
 
 **🚀 Sobre o Projeto**
@@ -42,7 +52,6 @@ Todo o conteúdo da interface é renderizado dinamicamente utilizando **JavaScri
 - **Kanban:** https://trello.com/b/O1yQPu8x/sctec
 - **Vídeo Explicativo:** https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci
 
-<div align="center">
 
 **🔄 Fluxo da Aplicação**
 
@@ -68,11 +77,6 @@ Todo o conteúdo da interface é renderizado dinamicamente utilizando **JavaScri
              Recomendação de Estudos
 </pre>
 
-</div>
-
----
-
-<div align="center">
 
 **🏗 Arquitetura da Aplicação**
 
@@ -121,7 +125,6 @@ A aplicação foi organizada utilizando <strong>ES Modules</strong>, separando r
         Internacionalização da interface
 </pre>
 
----
 
 **📂 Organização dos Módulos**
 
@@ -139,9 +142,6 @@ A aplicação foi organizada utilizando <strong>ES Modules</strong>, separando r
 └─────────────────────┴──────────────────────────────────────────────────────────────┘
 </pre>
 
-</div>
-
----
 
 **📌 Cadastro**
 
@@ -206,8 +206,6 @@ A interface já está preparada para envio dos dados. Entretanto, a persistênci
 **⭐ Funcionalidades Extras**
 
 Além dos requisitos obrigatórios, foram implementadas melhorias com foco em organização, escalabilidade, experiência do usuário e preparação para futuras evoluções da aplicação.
-
-<div align="center">
 
 <pre>
 ⭐ Interface inspirada em terminal interativo
@@ -302,8 +300,6 @@ Projeto02-SkillmatchInterface
 
 >Projeto desenvolvido por mim, **Gabriel Carlos de Souza**, como avaliação final do **Módulo 01** do curso **Desenvolvimento Web**, promovido pela **SCtec**.
 
-
-<div align="center">
 
 >⭐ Se este projeto foi útil ou interessante para você, considere deixar uma estrela no repositório.
 
