@@ -14,7 +14,7 @@ Este projeto reúne os principais conhecimentos apresentados ao longo do módulo
 
 
  **📚 Conteúdos abordados**
-
+<pre>
 - HTML5 
 - CSS3 
 - JavaScript 
@@ -29,21 +29,21 @@ Este projeto reúne os principais conhecimentos apresentados ao longo do módulo
 - Modularização 
 - Git 
 - GitHub
-
+</pre>
 
 **🚀 Sobre o Projeto**
 
 O **SkillMatch Web** simula uma plataforma de recrutamento para profissionais da área de tecnologia.
 
 A aplicação permite que o usuário:
-
+<pre>
 - Cadastrar um perfil profissional;
 - Analisar sua compatibilidade com diferentes vagas;
 - Visualizar o percentual de compatibilidade;
 - Identificar competências encontradas;
 - Visualizar competências recomendadas;
 - Receber sugestões de estudo.
-
+</pre>
 Todo o conteúdo da interface é renderizado dinamicamente utilizando **JavaScript puro**, sem frameworks.
 
 
@@ -153,6 +153,8 @@ A interface já está preparada para envio dos dados. Entretanto, a persistênci
 
 **⚙️ Motor SkillMatch:**
 
+<pre>
+
 - Perfil modelado em objeto ✅
 - Catálogo de vagas em JSON ✅
 - Cálculo de compatibilidade ✅
@@ -166,9 +168,12 @@ A interface já está preparada para envio dos dados. Entretanto, a persistênci
 - Callback ✅
 - Closure ✅
 
-
+</pre>
+  
 **🖥 Interface**
 
+<pre>
+  
 - HTML semântico ✅
 - SEO básico ✅
 - Acessibilidade ✅
@@ -179,8 +184,11 @@ A interface já está preparada para envio dos dados. Entretanto, a persistênci
 - Responsividade (Mobile First) ✅
 - Layout utilizando Flexbox ✅
 
+</pre>
 
 **💾 Dados**
+
+<pre>
 
 - Fetch API ✅
 - Tratamento de carregamento ✅
@@ -189,9 +197,11 @@ A interface já está preparada para envio dos dados. Entretanto, a persistênci
 - Persistência utilizando LocalStorage ✅
 - Armazenamento do perfil do candidato ✅
 
-
+</pre>
 
 **📁 Organização**
+
+<pre>
 
 - ES Modules ✅
 - Arquitetura modular ✅
@@ -201,7 +211,7 @@ A interface já está preparada para envio dos dados. Entretanto, a persistênci
 - Kanban ✅
 - README técnico ✅
 
-
+</pre>
 
 **⭐ Funcionalidades Extras**
 
@@ -286,6 +296,8 @@ Projeto02-SkillmatchInterface
 
 **🔮 Melhorias Futuras**
 
+<pre>
+  
 - Integração completa com **n8n**
 - Persistência em banco de dados
 - Sistema de autenticação de candidatos
@@ -296,6 +308,8 @@ Projeto02-SkillmatchInterface
 - Exportação de currículos em PDF
 - Área para empresas cadastrarem vagas
 - Deploy em ambiente de produção
+
+</pre>  
 
 
 >Projeto desenvolvido por mim, **Gabriel Carlos de Souza**, como avaliação final do **Módulo 01** do curso **Desenvolvimento Web**, promovido pela **SCtec**.
