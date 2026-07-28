@@ -53,31 +53,31 @@ Link Vídeo Explicativo: https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci <br
 
 ```text
 
-                                                   Página Inicial
+                                              Página Inicial
 
-                                                         ▼
+                                                    ▼
 
-                                                 Perfil Encontrado
+                                             Perfil Encontrado
 
-                                                         ▼
+                                                    ▼
 
-                                                   Novo Cadastro
+                                               Novo Cadastro
 
-                                                         ▼
+                                                    ▼
 
-                                              Confirmação do Cadastro
+                                          Confirmação do Cadastro
 
-                                                         ▼
+                                                    ▼
 
-                                             Análise de Compatibilidade
+                                         Análise de Compatibilidade
 
-                                                         ▼
+                                                    ▼
 
-                                                Resultado das Vagas
+                                            Resultado das Vagas
 
-                                                         ▼
+                                                    ▼
 
-                                              Recomendação de Estudos
+                                          Recomendação de Estudos
 ```
 
 
@@ -87,21 +87,21 @@ A aplicação foi organizada utilizando **ES Modules**, separando responsabilida
 
 
 
-                                         | Arquivo | Responsabilidade |
-                                      |---------------|------------------|
-                                  | **main.js** | Inicialização da aplicação |
-                                                       ▼
-                       | **motor.js** | Regras de negócio e cálculo de compatibilidade |
-                                                       ▼
-                         | **ui.js** | Fluxo das telas e gerenciamento da interface |
-                                                       ▼
-                       | **componentes.js** | Biblioteca de componentes reutilizáveis |
-                                                       ▼
-                       | **terminal.js** | Renderização, animações e efeitos visuais  |
-                                                       ▼
-                      |  **dados.js** | Fetch das vagas e persistência em LocalStorage |
-                                                       ▼
-                               | **i18n.js** | Internacionalização da interface |
+                                     | Arquivo | Responsabilidade |
+                                  |---------------|------------------|
+                               | **main.js** | Inicialização da aplicação |
+                                                    ▼
+                    | **motor.js** | Regras de negócio e cálculo de compatibilidade |
+                                                    ▼
+                      | **ui.js** | Fluxo das telas e gerenciamento da interface |
+                                                    ▼
+                    | **componentes.js** | Biblioteca de componentes reutilizáveis |
+                                                    ▼
+                    | **terminal.js** | Renderização, animações e efeitos visuais  |
+                                                    ▼
+                   |  **dados.js** | Fetch das vagas e persistência em LocalStorage |
+                                                    ▼
+                            | **i18n.js** | Internacionalização da interface |
 
 <div align="center">
 
