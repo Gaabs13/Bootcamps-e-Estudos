@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/img/SkillMatchCapa.png" alt="Banner" width="100%" />
+</p>
+
+<div align="center">
+
 # 💼 SkillMatch Web
 
 > Projeto desenvolvido como avaliação final do **Módulo 01** do curso **Desenvolvimento Web**, promovido pela **SCtec**.
@@ -208,6 +214,6 @@ Abra a pasta no **Visual Studio Code** e execute utilizando o **Live Server**.
 - Recomendações utilizando IA
 - Tradução para novos idiomas
 - Deploy em produção
-
+  </div>
 
 > Desenvolvido por **Gabriel Carlos de Souza** como projeto avaliativo do **Módulo 01** do curso **Desenvolvimento Web — SCtec**.
