@@ -55,27 +55,27 @@ Link Vídeo Explicativo: https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci <br
 
                                               Página Inicial
 
-                                                    ▼
+                                                  ▼
 
                                              Perfil Encontrado
 
-                                                    ▼
+                                                  ▼
 
                                                Novo Cadastro
 
-                                                    ▼
+                                                  ▼
 
                                           Confirmação do Cadastro
 
-                                                    ▼
+                                                  ▼
 
                                          Análise de Compatibilidade
 
-                                                    ▼
+                                                  ▼
 
                                             Resultado das Vagas
 
-                                                    ▼
+                                                  ▼
 
                                           Recomendação de Estudos
 ```
