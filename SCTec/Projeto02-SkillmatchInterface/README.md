@@ -11,10 +11,6 @@
 O **SkillMatch Web** transforma o motor de compatibilidade desenvolvido anteriormente em JavaScript (Console) em uma aplicação Web completa, permitindo que candidatos informem seu perfil profissional e descubram seu nível de compatibilidade com vagas da área de tecnologia.
 
 
-# 📖 Sobre a SCtec
-
-A **SCtec** é uma instituição voltada para a formação de profissionais de tecnologia, utilizando uma abordagem prática baseada em projetos.
-
 Durante o Módulo 01 foram abordados conceitos fundamentais de desenvolvimento Front-End, incluindo:
 
 • HTML5
@@ -111,7 +107,6 @@ O cadastro presente nesta versão possui finalidade demonstrativa.
 
 A interface já está preparada para envio dos dados, porém a persistência definitiva será realizada futuramente através de uma integração com **n8n**, permitindo automatizar o envio para banco de dados, APIs ou CRMs sem alterar a arquitetura da aplicação.
 
----
 
 # ✅ Requisitos Atendidos
 
@@ -177,7 +172,6 @@ Além dos requisitos obrigatórios, foram adicionadas melhorias visando organiza
 ⭐ Estrutura preparada para futuras integrações com IA
 
 
-
 # 🛠 Tecnologias
 
 • HTML5
@@ -190,7 +184,6 @@ Além dos requisitos obrigatórios, foram adicionadas melhorias visando organiza
 • Git
 • GitHub
 
----
 
 # 🚀 Como executar
 
