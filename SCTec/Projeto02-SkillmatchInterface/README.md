@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/img/capaReadme.png" alt="Banner" width="100%" />
+  <img src="./assets/img/capaReadme.png" alt="Banner do Projeto SkillMatch Web" width="100%">
 </p>
 
 <div align="center">
@@ -10,162 +10,208 @@
 
 O **SkillMatch Web** transforma o motor de compatibilidade desenvolvido anteriormente em JavaScript (Console) em uma aplicação Web completa, permitindo que candidatos informem seu perfil profissional e descubram seu nível de compatibilidade com vagas da área de tecnologia.
 
-
-Durante o Módulo 01 foram abordados conceitos fundamentais de desenvolvimento Front-End, incluindo:
-
-• HTML5
-• CSS3
-• JavaScript
-• Programação Orientada a Objetos
-• DOM
-• Eventos
-• Responsividade
-• SEO
-• Acessibilidade
-• Fetch API
-• LocalStorage
-• Modularização
-• Git e GitHub
-
 Este projeto reúne os principais conhecimentos apresentados ao longo do módulo em uma única aplicação.
+
+
+ **📚 Conteúdos abordados**
+
+HTML5 • CSS3 • JavaScript • Programação Orientada a Objetos • DOM • Eventos • Responsividade • SEO • Acessibilidade • Fetch API • LocalStorage • Modularização • Git • GitHub
+
+</div>
+
 
 
 **🚀 Sobre o Projeto**
 
-O SkillMatch Web simula uma plataforma de recrutamento para desenvolvedores.
+O **SkillMatch Web** simula uma plataforma de recrutamento para profissionais da área de tecnologia.
 
 A aplicação permite que o usuário:
 
-• Cadastrar um perfil profissional;
-• Analisar compatibilidade com vagas;
-• Visualizar percentual de compatibilidade;
-• identificar competências encontradas;
-• Visualizar competências recomendadas;
-• Receber sugestões de estudo.
+- Cadastrar um perfil profissional;
+- Analisar sua compatibilidade com diferentes vagas;
+- Visualizar o percentual de compatibilidade;
+- Identificar competências encontradas;
+- Visualizar competências recomendadas;
+- Receber sugestões de estudo.
 
-Todo o conteúdo da interface é renderizado dinamicamente utilizando JavaScript puro.
+Todo o conteúdo da interface é renderizado dinamicamente utilizando **JavaScript puro**, sem frameworks.
 
-Link do Kanban: https://trello.com/b/O1yQPu8x/sctec <br>
-Link Vídeo Explicativo: https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci <br>
 
+**🔗 Links**
+
+- **Kanban:** https://trello.com/b/O1yQPu8x/sctec
+- **Vídeo Explicativo:** https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci
+
+<div align="center">
 
 **🔄 Fluxo da Aplicação**
 
+<pre>
+                     Página Inicial
+                           │
+                           ▼
+                  Perfil Encontrado
+                           │
+                           ▼
+                    Novo Cadastro
+                           │
+                           ▼
+              Confirmação do Cadastro
+                           │
+                           ▼
+             Análise de Compatibilidade
+                           │
+                           ▼
+                Resultado das Vagas
+                           │
+                           ▼
+             Recomendação de Estudos
+</pre>
 
+</div>
 
-                                              Página Inicial
-
-                                                  ▼
-
-                                             Perfil Encontrado
-
-                                                  ▼
-
-                                               Novo Cadastro
-
-                                                  ▼
-
-                                          Confirmação do Cadastro
-
-                                                  ▼
-
-                                         Análise de Compatibilidade
-
-                                                  ▼
-
-                                            Resultado das Vagas
-
-                                                  ▼
-
-                                          Recomendação de Estudos
-
-
-
-**🏗 Arquitetura**
-
-A aplicação foi organizada utilizando **ES Modules**, separando responsabilidades entre os arquivos.
-
-
-
-                                     | Arquivo | Responsabilidade |
-                                  |---------------|------------------|
-                               | **main.js** | Inicialização da aplicação |
-                                                    ▼
-                    | **motor.js** | Regras de negócio e cálculo de compatibilidade |
-                                                    ▼
-                      | **ui.js** | Fluxo das telas e gerenciamento da interface |
-                                                    ▼
-                    | **componentes.js** | Biblioteca de componentes reutilizáveis |
-                                                    ▼
-                    | **terminal.js** | Renderização, animações e efeitos visuais  |
-                                                    ▼
-                   |  **dados.js** | Fetch das vagas e persistência em LocalStorage |
-                                                    ▼
-                            | **i18n.js** | Internacionalização da interface |
+---
 
 <div align="center">
+
+**🏗 Arquitetura da Aplicação**
+
+A aplicação foi organizada utilizando <strong>ES Modules</strong>, separando responsabilidades entre os módulos e facilitando a manutenção, escalabilidade e reutilização do código.
+
+<pre>
+                      main.js
+                         │
+                         ▼
+             Inicialização da aplicação
+                         │
+                         ▼
+                      motor.js
+                         │
+                         ▼
+       Regras de negócio e compatibilidade
+                         │
+                         ▼
+                        ui.js
+                         │
+                         ▼
+      Fluxo das telas e gerenciamento UI
+                         │
+                         ▼
+                  componentes.js
+                         │
+                         ▼
+        Biblioteca de componentes reutilizáveis
+                         │
+                         ▼
+                    terminal.js
+                         │
+                         ▼
+       Renderização, animações e efeitos
+                         │
+                         ▼
+                     dados.js
+                         │
+                         ▼
+ Fetch das vagas e persistência em LocalStorage
+                         │
+                         ▼
+                      i18n.js
+                         │
+                         ▼
+        Internacionalização da interface
+</pre>
+
+---
+
+**📂 Organização dos Módulos**
+
+<pre>
+┌─────────────────────┬──────────────────────────────────────────────────────────────┐
+│ Arquivo             │ Responsabilidade                                             │
+├─────────────────────┼──────────────────────────────────────────────────────────────┤
+│ main.js             │ Inicialização da aplicação                                   │
+│ motor.js            │ Regras de negócio e cálculo de compatibilidade               │
+│ ui.js               │ Fluxo das telas e gerenciamento da interface                 │
+│ componentes.js      │ Biblioteca de componentes reutilizáveis                      │
+│ terminal.js         │ Renderização, animações e efeitos visuais                    │
+│ dados.js            │ Fetch das vagas e persistência em LocalStorage               │
+│ i18n.js             │ Internacionalização da interface                             │
+└─────────────────────┴──────────────────────────────────────────────────────────────┘
+</pre>
+
+</div>
+
+---
 
 **📌 Cadastro**
 
 O cadastro presente nesta versão possui finalidade demonstrativa.
 
-A interface já está preparada para envio dos dados, porém a persistência definitiva será realizada futuramente através de uma integração com **n8n**, permitindo automatizar o envio para banco de dados, APIs ou CRMs sem alterar a arquitetura da aplicação.
+A interface já está preparada para envio dos dados. Entretanto, a persistência definitiva será implementada futuramente por meio de uma integração com **n8n**, permitindo automatizar o envio para bancos de dados, APIs ou CRMs sem necessidade de alterações na arquitetura da aplicação.
+
+**✅ Requisitos Atendidos**
+
+**⚙️ Motor SkillMatch:**
+
+- Perfil modelado em objeto ✅
+- Catálogo de vagas em JSON ✅
+- Cálculo de compatibilidade ✅
+- Classificação automática das vagas ✅
+- Identificação da melhor vaga ✅
+- Recomendação personalizada de estudos ✅
+- Utilização de métodos de Array (`map`, `filter`, `reduce`, etc.) ✅
+- Programação Orientada a Objetos (POO) ✅
+- Herança ✅
+- Utilização de `this` ✅
+- Callback ✅
+- Closure ✅
 
 
-# ✅ Requisitos Atendidos
+**🖥 Interface**
 
-**Motor SkillMatch**
-
-✅ Perfil modelado em objeto
-✅ Catálogo de vagas em JSON
-✅ Cálculo de compatibilidade
-✅ Classificação das vagas
-✅ Melhor vaga identificada
-✅ Recomendação de estudos
-✅ Métodos de Array (map, filter, reduce, etc.)
-✅ Programação Orientada a Objetos
-✅ Herança
-✅ Utilização de `this`
-✅ Callback
-✅ Closure
-
-**Interface**
-
-✅ HTML semântico
-✅ SEO básico
-✅ Acessibilidade
-✅ Formulário com validação
-✅ Eventos com JavaScript
-✅ Renderização dinâmica
-✅ Cards criados pelo DOM
-✅ Responsividade Mobile First
-✅ Layout utilizando Flexbox
-
-**Dados**
-
-✅ Fetch API
-✅ Tratamento de carregamento
-✅ Tratamento de lista vazia
-✅ Tratamento de erros
-✅ LocalStorage
-✅ Persistência do perfil
-
-**Organização**
-
-✅ ES Modules
-✅ Código modular
-✅ Git
-✅ GitHub
-✅ Kanban
-✅ README técnico
+- HTML semântico ✅
+- SEO básico ✅
+- Acessibilidade ✅
+- Formulário com validação ✅
+- Eventos utilizando JavaScript ✅
+- Renderização dinâmica pelo DOM ✅
+- Cards gerados dinamicamente ✅
+- Responsividade (Mobile First) ✅
+- Layout utilizando Flexbox ✅
 
 
-# ⭐ Funcionalidades Extras
+**💾 Dados**
 
-Além dos requisitos obrigatórios, foram adicionadas melhorias visando organização, escalabilidade e experiência do usuário.
+- Fetch API ✅
+- Tratamento de carregamento ✅
+- Tratamento para lista vazia ✅
+- Tratamento de erros ✅
+- Persistência utilizando LocalStorage ✅
+- Armazenamento do perfil do candidato ✅
 
+
+
+**📁 Organização**
+
+- ES Modules ✅
+- Arquitetura modular ✅
+- Separação de responsabilidades ✅
+- Git ✅
+- GitHub ✅
+- Kanban ✅
+- README técnico ✅
+
+
+
+**⭐ Funcionalidades Extras**
+
+Além dos requisitos obrigatórios, foram implementadas melhorias com foco em organização, escalabilidade, experiência do usuário e preparação para futuras evoluções da aplicação.
+
+<div align="center">
+
+<pre>
 ⭐ Interface inspirada em terminal interativo
-⭐ Sistema completo de internacionalização (i18n)
+⭐ Sistema completo de Internacionalização (i18n)
 ⭐ Biblioteca de componentes reutilizáveis
 ⭐ Arquitetura modular desacoplada
 ⭐ Separação em camadas (Dados • Motor • Interface)
@@ -174,47 +220,93 @@ Além dos requisitos obrigatórios, foram adicionadas melhorias visando organiza
 ⭐ CSS organizado por blocos funcionais
 ⭐ Navegação refinada entre resultados
 ⭐ Estrutura preparada para futuras integrações com IA
-
-
-**🛠 Tecnologias**
-
-• HTML5
-• CSS3
-• JavaScript (ES Modules)
-• Fetch API
-• LocalStorage
-• Flexbox
-• Responsive Design
-• Git
-• GitHub
-
-
-
-**🚀 Como executar**
+</pre>
 
 </div>
 
-Clone o projeto:
+
+
+**🛠 Tecnologias Utilizadas**
+
+| Categoria | Tecnologias |
+|:----------|:------------|
+| **Estrutura** | HTML5 |
+| **Estilização** | CSS3 |
+| **Programação** | JavaScript (ES Modules) |
+| **Comunicação** | Fetch API |
+| **Persistência** | LocalStorage |
+| **Layout** | Flexbox |
+| **Responsividade** | Mobile First |
+| **Versionamento** | Git |
+| **Repositório** | GitHub |
+
+
+**🚀 Como Executar**
+
+Clone o repositório:
 
 ```bash
-git clone <repositorio>
+git clone https://github.com/Gaabs13/Bootcamps-e-Estudos.git
 ```
 
-Abra a pasta no **Visual Studio Code** e execute utilizando o **Live Server**.
+Acesse a pasta do projeto:
 
-> A aplicação utiliza ES Modules e Fetch API, portanto deve ser executada através de um servidor local.
+```bash
+cd Bootcamps-e-Estudos/SCTec/Projeto02-SkillmatchInterface
+```
+
+Abra a pasta utilizando o **Visual Studio Code**.
+
+Caso possua a extensão **Live Server**, basta iniciar o servidor local.
+
+> **Observação:** este projeto utiliza **ES Modules** e **Fetch API**. Por esse motivo, ele deve ser executado através de um servidor local, evitando restrições do navegador relacionadas ao carregamento de módulos e arquivos JSON.
+
+
+**📁 Estrutura do Projeto**
+
+```text
+Projeto02-SkillmatchInterface
+│
+├── assets
+│   ├── css
+│   ├── img
+│   ├── json
+│   └── scripts
+│       ├── componentes.js
+│       ├── dados.js
+│       ├── i18n.js
+│       ├── main.js
+│       ├── motor.js
+│       ├── terminal.js
+│       └── ui.js
+│
+├── index.html
+└── README.md
+```
+
+
+
+**🔮 Melhorias Futuras**
+
+- Integração completa com **n8n**
+- Persistência em banco de dados
+- Sistema de autenticação de candidatos
+- Painel administrativo
+- Recomendações utilizando Inteligência Artificial
+- Tradução para novos idiomas
+- Dashboard de métricas
+- Exportação de currículos em PDF
+- Área para empresas cadastrarem vagas
+- Deploy em ambiente de produção
+
+
+>Projeto desenvolvido por mim, **Gabriel Carlos de Souza**, como avaliação final do **Módulo 01** do curso **Desenvolvimento Web**, promovido pela **SCtec**.
+
 
 <div align="center">
 
-# 🔮 Melhorias futuras que podem ser aplicadas
+>⭐ Se este projeto foi útil ou interessante para você, considere deixar uma estrela no repositório.
 
-- Integração completa com n8n
-- Persistência em banco de dados
-- Login de candidatos
-- Painel administrativo
-- Recomendações utilizando IA
-- Tradução para novos idiomas
-- Deploy em produção
+**Obrigado pela visita! 🚀**
+
 </div>
-
-> Desenvolvido por **Gabriel Carlos de Souza** como projeto avaliativo do **Módulo 01** do curso **Desenvolvimento Web — SCtec**.
