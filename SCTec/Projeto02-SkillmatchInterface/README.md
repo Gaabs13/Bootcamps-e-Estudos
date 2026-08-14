@@ -47,7 +47,7 @@ Todo o conteúdo da interface é renderizado dinamicamente utilizando **JavaScri
 
 **🔗 Links**
 
-**Kanban:** https://trello.com/b/O1yQPu8x/sctec
+**Kanban:** https://trello.com/b/O1yQPu8x/sctec <br>
 **Vídeo Explicativo:** https://vimeo.com/1211456758?share=copy&fl=sv&fe=ci
 
 
