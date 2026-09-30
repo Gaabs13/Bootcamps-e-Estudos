@@ -37,7 +37,7 @@ Estudos de visualização de dados e interfaces interativas
 **Práticas com ferramentas e laboratórios da plataforma**
 Aprendizado baseado em trilhas estruturadas e conteúdos oficiais
 
-### 💻 [Estudos-FrontEnd](./Estudos-FrontEnd/)
+### 💻 [Estudos-FrontEnd](./Estudo-FrontEnd/)
 
 Espaço dedicado a estudos, experimentações e projetos voltados ao desenvolvimento front-end moderno, com foco em interfaces interativas, integrações com APIs e construção de experiências digitais.
 
