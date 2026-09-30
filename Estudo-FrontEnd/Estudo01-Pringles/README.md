@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./assets/exemplo.gif" alt="Demo do projeto" width="100%">
 </p>
+<div align="center">
 
 Projeto de estudo e experimentação em desenvolvimento front-end focado na criação de uma **landing page interativa e animada**, com transições dinâmicas, microinterações e exploração de animações avançadas no navegador.
 
@@ -17,40 +18,40 @@ Projeto desenvolvido em colaboração com Gustavo (@devart), durante uma sessão
 
  🧠 Conceitos aplicados:
 
-- Manipulação de DOM
-- Estruturação de layout com HTML semântico
-- Estilização avançada com CSS
-- Controle de estado de slides (carousel)
-- Animações e transições com JavaScript
-- SVGs e elementos vetoriais animados
+Manipulação de DOM;
+Estruturação de layout com HTML semântico;
+Estilização avançada com CSS;
+Controle de estado de slides (carrossel);
+Animações e transições com JavaScript;
+SVGs e elementos vetoriais animados;
 
 
 
 ## ⚙️ Stack utilizada
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- GSAP (GreenSock Animation Platform)
-- ScrollTrigger
-- SplitType
-- SVG Animation
+HTML5
+CSS3
+JavaScript (ES6+)
+GSAP (GreenSock Animation Platform)
+ScrollTrigger
+SplitType
+SVG Animation
 
 
 ## 🎞️ Funcionalidades e Estrutura do projeto
 
-- Slider interativo com troca de sabores
-- Navegação entre slides com botões e indicadores
-- Elementos animados e responsivos
-- Animações de entrada e transição de conteúdo
-- Seções com efeitos visuais e SVG dinâmico
-- Layout inspirado em landing pages de produto
+Slider interativo com troca de sabores;
+Navegação entre slides com botões e indicadores;
+Elementos animados e responsivos;
+Animações de entrada e transição de conteúdo;
+Seções com efeitos visuais e SVG dinâmico;
+Layout inspirado em landing pages de produto;
 
-- Header com navegação e menu interativo
-- Seção de slides principal (carousel de produtos)
-- Seção com animações SVG e efeito marquee
-- Seções de destaque com storytelling visual
-- Footer com destaque de produto
+Header com navegação e menu interativo;
+Seção de slides principal (carousel de produtos);
+Seção com animações SVG e efeito marquee;
+Seções de destaque com storytelling visual;
+Footer com destaque de produto;
 
 ---
 
@@ -58,20 +59,21 @@ Projeto desenvolvido em colaboração com Gustavo (@devart), durante uma sessão
 
 Este projeto faz parte de estudos em:
 
-- Interfaces interativas e animadas
-- Storytelling visual no front-end
-- Experiência de usuário em landing pages
-- Integração de animações com GSAP
-- Construção de páginas de alto impacto visual
+Interfaces interativas e animadas;
+Storytelling visual no Front-End;
+Experiência de usuário em landing pages
+Integração de animações com GSAP;
+Construção de páginas de alto impacto visual;
 
 
 Este projeto pode evoluir futuramente para:
 
-- Migração para React/Next.js
-- Componentização da interface
-- Integração com CMS ou dados dinâmicos
-- Melhorias de performance e acessibilidade
-- Expansão do sistema de animações
+Migração para React/Next.js;
+Componentização da interface;
+Integração com CMS ou dados dinâmicos;
+Melhorias de performance e acessibilidade;
+Expansão do sistema de animações;
 
+</div>
 
 > “Interfaces ganham vida quando o movimento faz parte da experiência.”
