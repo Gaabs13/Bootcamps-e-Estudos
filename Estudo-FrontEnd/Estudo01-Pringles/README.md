@@ -18,34 +18,34 @@ Projeto desenvolvido em colaboração com Gustavo (@devart), durante uma sessão
 
  🧠 Conceitos aplicados:
 
-Manipulação de DOM;
-Estruturação de layout com HTML semântico;
-Estilização avançada com CSS;
-Controle de estado de slides (carrossel);
-Animações e transições com JavaScript;
-SVGs e elementos vetoriais animados;
+Manipulação de DOM; <br>
+Estruturação de layout com HTML semântico; <br>
+Estilização avançada com CSS; <br>
+Controle de estado de slides (carrossel); <br>
+Animações e transições com JavaScript; <br>
+SVGs e elementos vetoriais animados; <br>
 
 
 
 ## ⚙️ Stack utilizada
 
-HTML5
-CSS3
-JavaScript (ES6+)
-GSAP (GreenSock Animation Platform)
-ScrollTrigger
-SplitType
-SVG Animation
+HTML5 <br>
+CSS3 <br>
+JavaScript (ES6+) <br>
+GSAP (GreenSock Animation Platform) <br>
+ScrollTrigger <br>
+SplitType <br>
+SVG Animation <br>
 
 
 ## 🎞️ Funcionalidades e Estrutura do projeto
 
-Slider interativo com troca de sabores;
-Navegação entre slides com botões e indicadores;
-Elementos animados e responsivos;
-Animações de entrada e transição de conteúdo;
-Seções com efeitos visuais e SVG dinâmico;
-Layout inspirado em landing pages de produto;
+Slider interativo com troca de sabores; <br>
+Navegação entre slides com botões e indicadores; <br>
+Elementos animados e responsivos; <br>
+Animações de entrada e transição de conteúdo; <br>
+Seções com efeitos visuais e SVG dinâmico; <br>
+Layout inspirado em landing pages de produto; <br>
 
 Header com navegação e menu interativo;
 Seção de slides principal (carousel de produtos);
@@ -57,22 +57,22 @@ Footer com destaque de produto;
 
 ## 📈 Foco de estudo
 
-Este projeto faz parte de estudos em:
+Este projeto faz parte de estudos em: <br>
 
-Interfaces interativas e animadas;
-Storytelling visual no Front-End;
-Experiência de usuário em landing pages
-Integração de animações com GSAP;
-Construção de páginas de alto impacto visual;
+Interfaces interativas e animadas; <br>
+Storytelling visual no Front-End; <br>
+Experiência de usuário em landing pages <br>
+Integração de animações com GSAP; <br>
+Construção de páginas de alto impacto visual; <br>
 
 
-Este projeto pode evoluir futuramente para:
+Este projeto pode evoluir futuramente para: <br>
 
-Migração para React/Next.js;
-Componentização da interface;
-Integração com CMS ou dados dinâmicos;
-Melhorias de performance e acessibilidade;
-Expansão do sistema de animações;
+Migração para React/Next.js; <br>
+Componentização da interface; <br>
+Integração com CMS ou dados dinâmicos; <br>
+Melhorias de performance e acessibilidade; <br>
+Expansão do sistema de animações; <br>
 
 </div>
 
