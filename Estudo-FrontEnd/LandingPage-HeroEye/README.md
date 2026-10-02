@@ -14,10 +14,10 @@ Os exemplos foram reduzidos para ilustrar os padrões descritos e não formam, i
 
 ## O que este estudo apresenta
 
-- Como o estado de modo visual seleciona temas e coleções de conteúdo.
-- Como cada hero cria uma interação visual diferente a partir do movimento do ponteiro.
-- Como textos tipados e controles acessíveis sustentam três idiomas.
-- Como cor, composição editorial, sessões e galerias formam uma linguagem visual consistente.
+Como o estado de modo visual seleciona temas e coleções de conteúdo.
+Como cada hero cria uma interação visual diferente a partir do movimento do ponteiro.
+Como textos tipados e controles acessíveis sustentam três idiomas.
+Como cor, composição editorial, sessões e galerias formam uma linguagem visual consistente.
 
 ## Roteiro
 
