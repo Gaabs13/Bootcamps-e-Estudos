@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/01.gif" alt="Banner" width="100%" />
+</p>
+
+
 # HeroEye — estudo de interface para portfólio visual
 
 **Demonstração ao vivo:** [landing-page-hero-eye.vercel.app](https://landing-page-hero-eye.vercel.app/)
