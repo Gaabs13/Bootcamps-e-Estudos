@@ -3,8 +3,7 @@
 </p>
 
 <div align="center">
-# HeroEye — estudo de interface para portfólio visual
-
+  
 **Demonstração ao vivo:** [landing-page-hero-eye.vercel.app](https://landing-page-hero-eye.vercel.app/)
 
 Este repositório apresenta decisões de interface e trechos selecionados de uma aplicação de portfólio de fotografia e filme. A experiência combina duas direções visuais — urbana e natural — com conteúdo em português, inglês e espanhol.
