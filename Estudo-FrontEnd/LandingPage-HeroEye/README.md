@@ -2,7 +2,7 @@
   <img src="./assets/01.gif" alt="Banner" width="100%" />
 </p>
 
-
+<div align="center">
 # HeroEye — estudo de interface para portfólio visual
 
 **Demonstração ao vivo:** [landing-page-hero-eye.vercel.app](https://landing-page-hero-eye.vercel.app/)
@@ -38,3 +38,5 @@ Os exemplos isolam conceitos, usam nomes de domínio genéricos quando isso melh
 Uma seleção de trechos não impede que alguém estude ou reimplemente ideias apresentadas. Um repositório público é acessível a qualquer pessoa; esta curadoria serve para contextualizar o trabalho, não como barreira técnica de acesso ou proteção contra cópia.
 
 Não foi incluída uma licença de reutilização. Antes de convidar contribuições ou permitir uso do material, escolha e adicione uma licença que corresponda à sua intenção.
+
+</div>
