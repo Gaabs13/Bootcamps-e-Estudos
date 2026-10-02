@@ -21,16 +21,19 @@ Como cor, composição editorial, sessões e galerias formam uma linguagem visua
 
 ## Roteiro
 
-[Alternância entre modo urbano e natural](docs/01-modos-visuais.md)
-[Hero urbano: lente e movimento](docs/02-hero-urbano.md)
-[Hero natural: parallax e bússola](docs/03-hero-natural.md)
-[Internacionalização (i18n)](docs/04-internacionalizacao.md)
-[Escolhas estéticas e composição](docs/05-direcao-visual.md)
-[Referências e escopo](docs/06-referencias.md)
+[Alternância entre modo urbano e natural](docs/01-modos-visuais.md) <br>
+[Hero urbano: lente e movimento](docs/02-hero-urbano.md) <br>
+[Hero natural: parallax e bússola](docs/03-hero-natural.md) <br>
+[Internacionalização (i18n)](docs/04-internacionalizacao.md) <br>
+[Escolhas estéticas e composição](docs/05-direcao-visual.md) <br>
+[Referências e escopo](docs/06-referencias.md) <br>
 
 ## Tecnologias observadas
 
-React, TypeScript, Vite, Tailwind CSS e Motion.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ## Sobre o código demonstrativo
 
