@@ -21,12 +21,12 @@ Como cor, composição editorial, sessões e galerias formam uma linguagem visua
 
 ## Roteiro
 
-1. [Alternância entre modo urbano e natural](docs/01-modos-visuais.md)
-2. [Hero urbano: lente e movimento](docs/02-hero-urbano.md)
-3. [Hero natural: parallax e bússola](docs/03-hero-natural.md)
-4. [Internacionalização (i18n)](docs/04-internacionalizacao.md)
-5. [Escolhas estéticas e composição](docs/05-direcao-visual.md)
-6. [Referências e escopo](docs/06-referencias.md)
+[Alternância entre modo urbano e natural](docs/01-modos-visuais.md)
+[Hero urbano: lente e movimento](docs/02-hero-urbano.md)
+[Hero natural: parallax e bússola](docs/03-hero-natural.md)
+[Internacionalização (i18n)](docs/04-internacionalizacao.md)
+[Escolhas estéticas e composição](docs/05-direcao-visual.md)
+[Referências e escopo](docs/06-referencias.md)
 
 ## Tecnologias observadas
 
